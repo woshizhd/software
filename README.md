@@ -9,5 +9,6 @@
 - 2.win
 - 3.android
 ## _歡迎fork_
-![fate](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=67848741)
+
 ___
+![](https://www.pexels.com/photo/girl-woman-person-hand-88647/)

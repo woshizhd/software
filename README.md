@@ -1,5 +1,5 @@
 # software
-## --自己常用的軟件集合，嗯嗯，fuck baidudisk--
+## __自己常用的軟件集合，嗯嗯，fuck baidudisk__
 
 
 ## [連結](https://github.com/woshizhd/software)

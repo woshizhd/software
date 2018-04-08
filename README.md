@@ -5,10 +5,6 @@
 ## [連結](https://github.com/woshizhd/software)
 
 
--1.mac
-
-
--2.win
-
-
--3.android
+- 1.mac
+- 2.win
+- 3.android

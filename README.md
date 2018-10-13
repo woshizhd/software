@@ -2,7 +2,7 @@
 ## __自己常用的軟件集合，个人偏好绿色软件，“软件备份下载”多为其压缩包__
 ***
 
-[TOC]
+[ TOC ]
 
 ## 一.android
 ### 1.刷机 [科普](https://www.shintaku.cc/posts/adb/#disqus_thread)

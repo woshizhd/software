@@ -5,9 +5,16 @@
 ## [連結](https://github.com/woshizhd/software)
 
 
-- 1.mac
-- 2.win
-- 3.android
+## 一.android
+### 1.刷机
+#### adb工具
+
+## 二.osx
+####
+## 三.mac
+
+## 四.win
+### 1.系统安装
 ## _歡迎fork_
 
 ![software.png](https://i.loli.net/2018/04/11/5ace1407054c0.png)

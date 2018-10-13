@@ -1,13 +1,14 @@
 # software
 ## __自己常用的軟件集合，个人偏好绿色软件，“软件备份下载”多为其压缩包__
 ***
-
-## [TOC]
+## 目录
+* [android](#android)
 
 ## 一.android
 ### 1.刷机 [科普](https://www.shintaku.cc/posts/adb/#disqus_thread)
 #### adb工具 [科普及下载](https://mp.weixin.qq.com/s?src=11&timestamp=1539439679&ver=1180&signature=VDiV4kd-wPhm7aqVFtYjm8T064Ghw*TnslchVkQylkSsHBaWffC7qdr8nP5LFUNMx4GcLvGtfm16Sx*POhHxYmsWRC1YLQZj0wlU8WrkMaTpDThUULUmGyy407K4EyQ3&new=1)
-#### 手機型號匹配recovery+手机型号匹配系统下载网站推荐 [ROM之家](romzj.com) [移动叔叔论坛](bbs.ydss.cn) [紫火论坛](bbs.zhwlgzs.com)
+#### 手機型號匹配recovery+手机型号匹配系统下载网站推荐 [ROM之家](romzj.com)  [移动叔叔论坛](bbs.ydss.cn)  [紫火论坛](bbs.zhwlgzs.com)
+### 2.应用市场： Google play Apkpure [酷安市場](https://www.coolapk.com/apk/com.coolapk.market?from=navbar)
 
 ## 二.ios
 ### 1.APPSTORE 外区账号注册 [科普](https://mp.weixin.qq.com/s?src=11&timestamp=1539437947&ver=1180&signature=k-bE5w8pMh31dbTD3fTTF7Xov2O50pIrt0OYtcvYYCsNXoCE2mpJN7a--APmWF1DSJPkVgYLzc7lp1b1Egkrn*zsOhFwib-r6yKbfd3OtG*cAuvqyw*u6RaqrOY2z*mu&new=1)

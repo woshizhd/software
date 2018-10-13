@@ -2,19 +2,19 @@
 ## __自己常用的軟件集合，个人偏好绿色软件，“软件备份下载”多为其压缩包__
 ***
 ## 目录
-* [一.android](#一-android)
-* [二.ios](#二-ios)
-* [三.osx](#三-osx) 
-* [四.win](#四-win)
+* [一. android](#一-android)
+* [二. ios](#二-ios)
+* [三. osx](#三-osx) 
+* [四. win](#四-win)
 * [](#)
 
-## 一.android
+## 一. android
 ### 1.刷机 [科普](https://www.shintaku.cc/posts/adb/#disqus_thread)
 #### adb工具 [科普及下载](https://mp.weixin.qq.com/s?src=11&timestamp=1539439679&ver=1180&signature=VDiV4kd-wPhm7aqVFtYjm8T064Ghw*TnslchVkQylkSsHBaWffC7qdr8nP5LFUNMx4GcLvGtfm16Sx*POhHxYmsWRC1YLQZj0wlU8WrkMaTpDThUULUmGyy407K4EyQ3&new=1)
 #### 手機型號匹配recovery+手机型号匹配系统下载网站推荐 [ROM之家](romzj.com)  [移动叔叔论坛](bbs.ydss.cn)  [紫火论坛](bbs.zhwlgzs.com)
 ### 2.应用市场： Google play [Apkpure](https://apkpure.com/cn/)  [酷安市場](https://www.coolapk.com/apk/com.coolapk.market?from=navbar)
 
-## 二.ios
+## 二. ios
 ### 1.APPSTORE 外区账号注册 [科普](https://mp.weixin.qq.com/s?src=11&timestamp=1539437947&ver=1180&signature=k-bE5w8pMh31dbTD3fTTF7Xov2O50pIrt0OYtcvYYCsNXoCE2mpJN7a--APmWF1DSJPkVgYLzc7lp1b1Egkrn*zsOhFwib-r6yKbfd3OtG*cAuvqyw*u6RaqrOY2z*mu&new=1)
 
 ### 2.推荐应用
@@ -24,7 +24,7 @@
 #### Pin [科普](https://mp.weixin.qq.com/s?src=11&timestamp=1539438879&ver=1180&signature=G0ZQLiWu6d2Kh-9uzXBVss480xNQ2SC74zGFOhfC9BS5zJ0Koztz1hpk81JQsrtHgWAjOd-afuk1P7fMdDQz3SLZCkr2RIaR3awrMP9*QVoduRvsjfWSrOs96OJVTYEB&new=1) [appstore链接](Pin - 剪贴板扩展 来自 YING ZHONGhttps://itunes.apple.com/cn/app/pin-%E5%89%AA%E8%B4%B4%E6%9D%BF%E6%89%A9%E5%B1%95/id1039643846?mt=8)
 #### 3.第三方软件库 i4助手 [官网](https://www.i4.cn/)
 
-## 三.osx
+## 三. osx
 ### 1.虚拟机
 #### ParallelsDesktop13.2.0 [软件备份下载](https://github.com/woshizhd/software/releases/download/ParallelsDesktop13.2.0%E7%A0%B4%E8%A7%A3%E7%89%88%EF%BC%8Dmac/ParallelsDesktop13.2.0.dmg)
 
@@ -37,7 +37,7 @@
 ### 4.解压软件
 #### BetterZip [官网](https://macitbetter.com/)
 
-## 四.win
+## 四. win
 ### 1.系统安装
 #### 系统来源：
 ##### 纯净系统： [下载地址](https://msdn.itellyou.cn/)

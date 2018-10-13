@@ -2,10 +2,10 @@
 ## __自己常用的軟件集合，个人偏好绿色软件，“软件备份下载”多为其压缩包__
 ***
 ## 目录
-* [一.android](#一.android)
-* [二.ios](#二.ios)
-* [三.osx](#三.osx) 
-* [四.win](#四.win)
+* [一.android](#一-android)
+* [二.ios](#二-ios)
+* [三.osx](#三-osx) 
+* [四.win](#四-win)
 * [](#)
 
 ## 一.android
@@ -44,7 +44,7 @@
 ##### 精简系统
 
 #### 安装方法
-##### 系统启动盘制作：[科普](https://mp.weixin.qq.com/s?src=3&timestamp=1539419770&ver=1&signature=qltpV4ojkgQUetAEve*A-P18Ua2PLSTyC0r6Z9gt*icINRGOEz6LEmmqIvx*roZKwVQtHyq-QpeMEfN2Dx4Z8ADH80Ca5As1HsoQV2HVWoa4iyrnuUxCLOKUHT8Wq4S4sfiFYecnn6f4RQk39iy6nNVTM7OYDQEIAikSOBBznI4=) [软件官网](https://rufus.akeo.ie/) 
+##### 系统启动盘制作：[科普](https://mp.weixin.qq.com/s?src=11&timestamp=1539443570&ver=1180&signature=3d11xfJeqLmvbyGBw9r2toIftickAo9Adk3H9R3f88W0Tukohqb-IMKyrx*h*LcNFtXhkFodweo9Z3mkpN6V88vDFXPAWFTd5s49yhsoWoU1E2CWu736R6l05SDJApSP&new=1) [软件官网](https://rufus.akeo.ie/) 
 ##### PE盘制作：[科普](https://www.winos.me/archives/225.html) [软件官网](http://www.wepe.com.cn/download.html) [软件备份下载](https://github.com/woshizhd/software/releases/download/%E5%BE%AEPE2.0-winx86/wepe2.0.exe)
 
 #### 系统激活

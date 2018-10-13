@@ -3,6 +3,10 @@
 ***
 ## 目录
 * [android](#android)
+* [ios](#ios)
+* [osx](#osx)
+* [win](#win)
+* [](#)
 
 ## 一.android
 ### 1.刷机 [科普](https://www.shintaku.cc/posts/adb/#disqus_thread)

@@ -2,10 +2,10 @@
 ## __自己常用的軟件集合，个人偏好绿色软件，“软件备份下载”多为其压缩包__
 ***
 ## 目录
-* [android](#android)
-* [ios](#ios)
-* [osx](#osx) 
-* [win](#win)
+* [一.android](#一.android)
+* [二.ios](#二.ios)
+* [三.osx](#三.osx) 
+* [四.win](#四.win)
 * [](#)
 
 ## 一.android

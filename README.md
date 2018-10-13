@@ -38,13 +38,12 @@
 #### FireFox [软件官网](http://www.firefox.com.cn/)
 
 ### 3.办公软件
-#### Office2013绿色版 [软件备份下载]
-（https://github.com/woshizhd/software/releases/download/office2013%EF%BC%8D4%E5%90%881%E7%B2%BE%E7%B0%A1%E7%89%88%EF%BC%8Dwin/Office2013_4in1_2018.02.01_by_xb21cn.7z）
+#### Office2013绿色版 [软件备份下载](https://github.com/woshizhd/software/releases/download/office2013%EF%BC%8D4%E5%90%881%E7%B2%BE%E7%B0%A1%E7%89%88%EF%BC%8Dwin/Office2013_4in1_2018.02.01_by_xb21cn.7z)
 #### sumatraPDF阅读器 [官网](https://www.sumatrapdfreader.org/free-pdf-reader.html) [软件备份下载](https://github.com/woshizhd/software/raw/master/win/SumatraPDF.exe)————————多格式支持 畅快 小巧
 
 ### 4.视频软件
 #### 观看软件：popcorn time  [软件官网](https://www.popcorn-time.to/)
-#### 播放器：potplayer [软件官网]（http://potplayer.daum.net/?lang=zh_CN）
+#### 播放器：potplayer [软件官网](http://potplayer.daum.net/?lang=zh_CN)
 
 ### 5.通讯软件
 #### QQlite绿色版 [软件备份下载](https://github.com/woshizhd/software/releases/download/qq%E7%B6%A0%E8%89%B2%E7%B2%BE%E7%B0%A1%E7%89%887.9/QQ7.9lite.7z)————简单 畅快

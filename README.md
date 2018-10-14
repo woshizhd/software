@@ -85,6 +85,7 @@
 #### ssr-shadowsocksR——[github.com](https://github.com/) [科普](https://lolico.moe/tutorial/shadowsocksr.html/comment-page-3)
 
 ### 8.工具类
+#### IDM6.31.2绿色版  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/IDM6.31.2%E7%BB%BF%E8%89%B2%E7%89%88.7z)
 #### 卡硬工具箱 [官网](http://www.kbtool.cn/)————集百家之长，掌握主机的每个角落
 #### 分流抢火车票 [官网](https://www.12306bypass.com/)————小巧 强大
 

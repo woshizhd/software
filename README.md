@@ -82,7 +82,7 @@
 #### bandzip [软件官网](http://bandisoft.com/)[软件备份下载](https://github.com/woshizhd/software/releases/download/bandzip-6.12-win/BANDIZIP-SETUP.EXE)————全面 好用
 
 ### 7.fuck wall
-#### ssr-shadowsocksR——[github.com](github.com) [科普](https://lolico.moe/tutorial/shadowsocksr.html/comment-page-3)
+#### ssr-shadowsocksR——[github.com](https://github.com/) [科普](https://lolico.moe/tutorial/shadowsocksr.html/comment-page-3)
 
 ### 8.工具类
 #### 卡硬工具箱 [官网](http://www.kbtool.cn/)————集百家之长，掌握主机的每个角落

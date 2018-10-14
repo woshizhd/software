@@ -41,7 +41,7 @@
 ### 1.系统安装
 #### 系统来源：
 ##### 纯净系统： [下载地址](https://msdn.itellyou.cn/)
-##### 精简系统
+##### 精简系统  [win10-x86](https://github.com/woshizhd/software/releases/download/win10-x86-win/win10x86.iso)  [xp-iso](https://github.com/woshizhd/software/releases/download/xp-iso-win/WinXP_Final_20170720.iso)
 
 #### 安装方法
 ##### 系统启动盘制作：[科普](https://zhuanlan.zhihu.com/p/33232566)   [软件官网](https://rufus.akeo.ie/) 

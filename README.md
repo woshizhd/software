@@ -11,7 +11,7 @@
 ## 一. android
 ### 1.刷机 [科普](https://www.shintaku.cc/posts/adb/#disqus_thread)
 #### adb工具 [科普及下载](http://www.miui.com/thread-12249084-1-1.html)
-#### 手機型號匹配recovery+手机型号匹配系统下载网站推荐 [ROM之家](romzj.com)  [移动叔叔论坛](bbs.ydss.cn)  [紫火论坛](bbs.zhwlgzs.com)
+#### 手機型號匹配recovery+手机型号匹配系统下载网站推荐 [ROM之家](http://romzj.com/)  [移动叔叔论坛](http://bbs.ydss.cn/)  [紫火论坛](http://bbs.zhwlgzs.com/)
 ### 2.应用市场： Google play   [Apkpure](https://apkpure.com/cn/)   [酷安市場](https://www.coolapk.com/apk/com.coolapk.market?from=navbar)
 
 ## 二. ios

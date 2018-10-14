@@ -79,7 +79,7 @@
 #### QQlite绿色版 [软件备份下载](https://github.com/woshizhd/software/releases/download/qq%E7%B6%A0%E8%89%B2%E7%B2%BE%E7%B0%A1%E7%89%887.9/QQ7.9lite.7z)————简单 畅快
 
 ### 6.解压软件
-#### bandzip [软件官网](http://bandisoft.com/)[软件备份下载](https://github.com/woshizhd/software/releases/download/bandzip-6.12-win/BANDIZIP-SETUP.EXE)————全面 好用
+#### bandzip [软件官网](http://bandisoft.com/)  [软件备份下载](https://github.com/woshizhd/software/releases/download/bandzip-6.12-win/BANDIZIP-SETUP.EXE)————全面 好用
 
 ### 7.fuck wall
 #### ssr-shadowsocksR——[github.com](https://github.com/) [科普](https://lolico.moe/tutorial/shadowsocksr.html/comment-page-3)

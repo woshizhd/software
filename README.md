@@ -30,6 +30,7 @@
 
 ### 2.视频播放
 #### IINA.v0.0.15 [官网](https://lhc70000.github.io/iina/zh-cn/)   [软件备份下载](https://github.com/woshizhd/software/releases/download/IINA-mac/IINA.v0.0.15-build68.dmg)
+#### MPlayerX [官网](http://mplayerx.org/)  [软件备份下载](https://github.com/woshizhd/software/releases/download/MPlayerX_1.1.4%EF%BC%8Dmac/MPlayerX_1.1.4.zip)
 
 ### 3.清理工具 
 #### cleanmymac 3.9  [软件备份下载](https://github.com/woshizhd/software/blob/master/osx/cleanmymac.zip)

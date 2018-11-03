@@ -66,7 +66,7 @@
 ###### 油猴   [科普](https://juejin.im/post/5a538aa9518825732e2f2849)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Tampermonkey_v4.5.crx)
 ###### Dream-Afar标签美化   [科普](https://sspai.com/post/41439)   [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Dream-Afar-New-Tab_v0.3.12.crx)
 
-#### FireFox [软件官网](http://www.firefox.com.cn/)
+#### FireFox [官网下载](https://www.mozilla.org/zh-CN/firefox/organizations/all/)
 
 ### 3.办公软件
 #### Office2013绿色版 [软件备份下载](https://github.com/woshizhd/software/releases/download/office2013%EF%BC%8D4%E5%90%881%E7%B2%BE%E7%B0%A1%E7%89%88%EF%BC%8Dwin/Office2013_4in1_2018.02.01_by_xb21cn.7z)

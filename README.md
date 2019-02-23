@@ -38,6 +38,9 @@
 ### 4.解压软件
 #### BetterZip [官网](https://macitbetter.com/)  [软件备份下载](https://github.com/woshizhd/software/raw/master/osx/BetterZip%204.1.3.dmg)
 
+### 4.下载工具
+#### Aria2 [官网](https://aria2.github.io/)  [教程](https://yalv.me/aria2/)
+
 ## 四. win
 ### 1.系统安装
 #### 系统来源：

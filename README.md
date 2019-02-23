@@ -13,6 +13,8 @@
 #### adb工具 [科普及下载](http://www.miui.com/thread-12249084-1-1.html)
 #### 手機型號匹配recovery+手机型号匹配系统下载网站推荐 [ROM之家](http://romzj.com/)  [移动叔叔论坛](http://bbs.ydss.cn/)  [紫火论坛](http://bbs.zhwlgzs.com/)
 ### 2.应用市场： Google play   [Apkpure](https://apkpure.com/cn/)   [酷安市場](https://www.coolapk.com/apk/com.coolapk.market?from=navbar)
+### 3.酸酸乳
+#### shadowsocksr-android     [官网](https://github.com/shadowsocksrr/shadowsocksr-android/releases)
 
 ## 二. ios
 ### 1.APPSTORE 外区账号注册 [科普](https://zhuanlan.zhihu.com/p/41569923)
@@ -22,7 +24,11 @@
 
 #### 捷径（原workflow）[科普](https://www.wenlc.com/weixin/20180921A1FLXQ00.html)   [appstore链接](https://itunes.apple.com/cn/app/%E6%8D%B7%E5%BE%84/id915249334?mt=8)
 #### Pin [科普](https://www.wenlc.com/weixin/20180426A192I300.html)   [appstore链接](https://itunes.apple.com/cn/app/pin-%E5%89%AA%E8%B4%B4%E6%9D%BF%E6%89%A9%E5%B1%95/id1039643846?mt=8)
-#### 3.第三方软件库 i4助手 [官网](https://www.i4.cn/)
+### 3.第三方软件库 i4助手 [官网](https://www.i4.cn/)
+### 4.酸酸乳
+#### Shadowrocket    [appstore链接](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)  [分享账号](https://mp.weixin.qq.com/s?src=11&timestamp=1550904291&ver=1445&signature=FDDnLB4HVIf5LuPpw4dGysKmuBCkaib8WCRSYHgd9Ai14kgPSXZJ4j-IhVj87fT3MBPggzGJuqLuivcq0WLO8*eVPDwBilNPHhwRrX3MWFGTkTCZb5FHtufxr-wTrbPx&new=1)  [ipa下载](https://github.com/woshizhd/software/raw/master/ios/Shadowrocket_2.1.23.ipa)
+
+
 
 ## 三. osx
 ### 1.虚拟机
@@ -40,6 +46,10 @@
 
 ### 4.下载工具
 #### Aria2 [官网](https://aria2.github.io/)  [教程](https://yalv.me/aria2/)
+
+### 4.酸酸乳
+#### ShadowsocksX-NG   [官网](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases)
+#### ClashX   [官网](https://github.com/yichengchen/clashX/releases)
 
 ## 四. win
 ### 1.系统安装
@@ -86,7 +96,8 @@
 #### bandzip [软件官网](http://bandisoft.com/)  [软件备份下载](https://github.com/woshizhd/software/releases/download/bandzip-6.12-win/BANDIZIP-SETUP.EXE)————全面 好用
 
 ### 7.fuck wall
-#### ssr-shadowsocksR——[github.com](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) [科普](https://lolico.moe/tutorial/shadowsocksr.html/comment-page-3)
+#### ssr-shadowsocksR——[官网](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) [科普](https://lolico.moe/tutorial/shadowsocksr.html/comment-page-3)
+#### Clash   [官网](https://github.com/Dreamacro/clash/releases)
 
 ### 8.工具类
 #### IDM6.31.2绿色版  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/IDM6.31.2%E7%BB%BF%E8%89%B2%E7%89%88.7z)

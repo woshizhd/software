@@ -86,7 +86,7 @@
 #### bandzip [软件官网](http://bandisoft.com/)  [软件备份下载](https://github.com/woshizhd/software/releases/download/bandzip-6.12-win/BANDIZIP-SETUP.EXE)————全面 好用
 
 ### 7.fuck wall
-#### ssr-shadowsocksR——[github.com](https://github.com/) [科普](https://lolico.moe/tutorial/shadowsocksr.html/comment-page-3)
+#### ssr-shadowsocksR——[github.com](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) [科普](https://lolico.moe/tutorial/shadowsocksr.html/comment-page-3)
 
 ### 8.工具类
 #### IDM6.31.2绿色版  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/IDM6.31.2%E7%BB%BF%E8%89%B2%E7%89%88.7z)
@@ -95,7 +95,7 @@
 #### 分流抢火车票 [官网](https://www.12306bypass.com/)————小巧 强大
 
 
-## _歡迎fork_
+## _歡迎star_
 
 ![software.png](https://i.loli.net/2018/04/11/5ace1407054c0.png)
 

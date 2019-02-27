@@ -49,7 +49,7 @@
 
 ### 6.酸酸乳
 #### ShadowsocksX-NG   [官网](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases)
-#### ClashX   [官网](https://github.com/yichengchen/clashX/releases)
+#### ClashX   [官网](https://github.com/yichengchen/clashX/releases)  [科普及教程](https://github.com/Hackl0us/SS-Rule-Snippet/wiki/clash(X))  
 
 ## 四. win
 ### 1.系统安装
@@ -97,7 +97,7 @@
 
 ### 7.fuck wall
 #### ssr-shadowsocksR——[官网](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) [科普](https://lolico.moe/tutorial/shadowsocksr.html/comment-page-3)
-#### Clash   [官网](https://github.com/Dreamacro/clash/releases)
+#### Clash   [官网](https://github.com/Dreamacro/clash/releases) [科普](https://github.com/Hackl0us/SS-Rule-Snippet/wiki/clash(X)) [教程](http://www.xuxiaobo.com/?p=5155)  [备份教程](https://github.com/meishixiu/note/blob/master/Clash/Clash%E5%9C%A8Windows%E4%B8%8A%E7%9A%84%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E4%B8%8E%E4%BD%BF%E7%94%A8.md)
 
 ### 8.工具类
 #### IDM6.31.2绿色版  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/IDM6.31.2%E7%BB%BF%E8%89%B2%E7%89%88.7z)

@@ -100,7 +100,7 @@
 #### Clash   [官网](https://github.com/Dreamacro/clash/releases) [科普](https://github.com/Hackl0us/SS-Rule-Snippet/wiki/clash(X)) [教程](http://www.xuxiaobo.com/?p=5155)  [备份教程](https://github.com/meishixiu/note/blob/master/Clash/Clash%E5%9C%A8Windows%E4%B8%8A%E7%9A%84%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E4%B8%8E%E4%BD%BF%E7%94%A8.md)
 
 ### 8.工具类
-#### Notepad++  [官网](https://notepad-plus-plus.org/)  [备份下载](https://github.com/woshizhd/software/raw/master/win/npp.7.6.3.bin.minimalist.7z)
+#### Notepad++  [官网](https://notepad-plus-plus.org/)  [备份下载](https://github.com/woshizhd/software/raw/master/win/npp.7.6.3.bin.minimalist.7z)————轻便 强大
 #### IDM6.31.2绿色版  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/IDM6.31.2%E7%BB%BF%E8%89%B2%E7%89%88.7z)
 #### Pandownload 2.0.3  [官网](http://pandownload.com/)  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/PanDownload_v2.0.3.zip)
 #### 卡硬工具箱 [官网](http://www.kbtool.cn/)————集百家之长，掌握主机的每个角落

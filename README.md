@@ -47,7 +47,7 @@
 ### 4.下载工具
 #### Aria2 [官网](https://aria2.github.io/)  [教程](https://yalv.me/aria2/)
 
-### 4.酸酸乳
+### 5.酸酸乳
 #### ShadowsocksX-NG   [官网](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases)
 #### ClashX   [官网](https://github.com/yichengchen/clashX/releases)
 

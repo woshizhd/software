@@ -44,10 +44,10 @@
 ### 4.解压软件
 #### BetterZip [官网](https://macitbetter.com/)  [软件备份下载](https://github.com/woshizhd/software/raw/master/osx/BetterZip%204.1.3.dmg)
 
-### 4.下载工具
+### 5.下载工具
 #### Aria2 [官网](https://aria2.github.io/)  [教程](https://yalv.me/aria2/)
 
-### 5.酸酸乳
+### 6.酸酸乳
 #### ShadowsocksX-NG   [官网](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases)
 #### ClashX   [官网](https://github.com/yichengchen/clashX/releases)
 

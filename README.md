@@ -72,7 +72,7 @@
 ##### Hash_1.0.4  [软件备份下载](https://github.com/woshizhd/software/blob/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/Hash_1.0.4.exe)
 
 ### 2.浏览器
-#### Google Chrome  [软件备份下载](https://github.com/woshizhd/software/releases/download/google-chrome-64.0-winx64/Google.Chrome.zip)
+#### Google Chrome  [友链](https://tools.shuax.com/chrome/#/)  [软件备份下载](https://github.com/woshizhd/software/releases/download/google-chrome-64.0-winx64/Google.Chrome.zip)
 ##### 插件推荐
 ###### ABP广告拦截  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Adblock-Plus_v1.11.crx)
 ###### skyZIP谷歌上网助手  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/skyZIP%E2%84%A2-Proxy_v0.8.3.crx)

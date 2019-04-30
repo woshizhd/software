@@ -87,7 +87,7 @@
 
 ### 4.视频软件
 #### 观看软件：popcorn time  [软件官网](https://www.popcorn-time.to/)
-#### 播放器：potplayer [软件官网](http://potplayer.daum.net/?lang=zh_CN)   [软件备份下载](https://github.com/woshizhd/software/raw/master/win/PotPlayer_64bit.exe)
+#### 播放器：potplayer [软件官网](http://potplayer.daum.net/?lang=zh_CN)   [软件备份下载](https://github.com/woshizhd/software/raw/master/win/Daum%20Potplayer%20v1.7.18344_64bit.7z)
 
 ### 5.通讯软件
 #### QQlite绿色版 [软件备份下载](https://github.com/woshizhd/software/releases/download/qq%E7%B6%A0%E8%89%B2%E7%B2%BE%E7%B0%A1%E7%89%887.9/QQ7.9lite.7z)————简单 畅快
@@ -100,6 +100,7 @@
 #### Clash   [官网](https://github.com/Dreamacro/clash/releases) [科普](https://github.com/Hackl0us/SS-Rule-Snippet/wiki/clash(X)) [教程](http://www.xuxiaobo.com/?p=5155)  [备份教程](https://github.com/meishixiu/note/blob/master/Clash/Clash%E5%9C%A8Windows%E4%B8%8A%E7%9A%84%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E4%B8%8E%E4%BD%BF%E7%94%A8.md)
 
 ### 8.工具类
+#### Dism ++    [官网](https://www.chuyu.me/zh-Hant/)  ————轻便 强大的windows 管理工具
 #### Notepad++  [官网](https://notepad-plus-plus.org/)  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/npp.7.6.3.bin.minimalist.7z)————轻便 强大
 #### IDM6.31.2绿色版  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/IDM6.31.2%E7%BB%BF%E8%89%B2%E7%89%88.7z)
 #### Pandownload 2.0.3  [官网](http://pandownload.com/)  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/PanDownload_v2.0.3.zip)

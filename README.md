@@ -62,7 +62,7 @@
 ##### PE盘制作：[科普](https://www.winos.me/archives/225.html)   [软件官网](http://www.wepe.com.cn/download.html)   [软件备份下载](https://github.com/woshizhd/software/releases/download/%E5%BE%AEPE2.0-winx86/wepe2.0.exe)  [rufus](https://rufus.ie/)
 
 #### 系统激活
-##### AAct.exe [软件备份下载](https://github.com/woshizhd/software/blob/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/AAct.exe)
+##### AAct.exe [软件备份下载](http://www.aichunjing.com/jhgj1/)
 ##### KMS [软件备份下载](https://dagaoya.github.io/pc/2018/11/16/Win10_office.html)
 
 #### 驱动安装

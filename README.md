@@ -31,6 +31,7 @@
 
 
 ## 三. osx
+### [Awesome Mac](https://wangchujiang.com/awesome-mac/index.zh.html#totop)
 ### 1.虚拟机
 #### ParallelsDesktop13.2.0 [软件备份下载](https://github.com/woshizhd/software/releases/download/ParallelsDesktop13.2.0%E7%A0%B4%E8%A7%A3%E7%89%88%EF%BC%8Dmac/ParallelsDesktop13.2.0.dmg)
 
@@ -51,9 +52,10 @@
 #### ShadowsocksX-NG   [官网](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases)
 #### ClashX   [官网](https://github.com/yichengchen/clashX/releases)  [科普及教程](https://github.com/Hackl0us/SS-Rule-Snippet/wiki/clash(X))  
 
-### [Awesome Mac](https://wangchujiang.com/awesome-mac/index.zh.html#totop)
+
 
 ## 四. win
+### [Awesome Win](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 ### 1.系统安装
 #### 系统来源：
 ##### 纯净系统： [下载地址](https://msdn.itellyou.cn/)
@@ -109,7 +111,7 @@
 #### 卡硬工具箱 [官网](http://www.kbtool.cn/)————集百家之长，掌握主机的每个角落
 #### 分流抢火车票 [官网](https://www.12306bypass.com/)————小巧 强大
 
-### [Awesome Win](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
+
 
 
 ## _歡迎star_

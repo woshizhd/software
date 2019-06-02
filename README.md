@@ -80,6 +80,7 @@
 ### 2.浏览器
 #### Google Chrome  [友链](https://tools.shuax.com/chrome/#/)  [软件备份下载](https://github.com/woshizhd/software/releases/download/google-chrome-64.0-winx64/Google.Chrome.zip)
 ##### 插件推荐
+###### [Chrome插件英雄榜](https://zhaoolee.gitbooks.io/chrome/content/)
 ###### ABP广告拦截  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Adblock-Plus_v1.11.crx)
 ###### skyZIP谷歌上网助手  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/skyZIP%E2%84%A2-Proxy_v0.8.3.crx)
 ###### 油猴   [科普](https://juejin.im/post/5a538aa9518825732e2f2849)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Tampermonkey_v4.5.crx)

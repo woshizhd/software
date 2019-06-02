@@ -52,6 +52,8 @@
 #### ShadowsocksX-NG   [官网](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases)
 #### ClashX   [官网](https://github.com/yichengchen/clashX/releases)  [科普及教程](https://github.com/Hackl0us/SS-Rule-Snippet/wiki/clash(X))  
 
+### 黑苹果  [Awesome Link](https://github.com/daliansky/Hackintosh)
+
 
 
 ## 四. win

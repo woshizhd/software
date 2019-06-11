@@ -89,7 +89,7 @@
 #### FireFox [官网下载](https://www.mozilla.org/zh-CN/firefox/organizations/all/)    [RunningCheese Firefox](https://www.runningcheese.com/v10)
 
 ### 3.办公软件
-#### Office2013绿色版 [软件备份下载](https://github.com/woshizhd/software/releases/download/office2013%EF%BC%8D4%E5%90%881%E7%B2%BE%E7%B0%A1%E7%89%88%EF%BC%8Dwin/Office2013_4in1_2018.02.01_by_xb21cn.7z)
+#### Office2013绿色版 [软件备份下载](https://github.com/woshizhd/software/releases/download/office2013%EF%BC%8D4%E5%90%881%E7%B2%BE%E7%B0%A1%E7%89%88%EF%BC%8Dwin/Office2013_4in1_2018.02.01_by_xb21cn.7z)  [Office下载安装汇总](https://www.zhyong.cn/posts/bb2e/)
 #### sumatraPDF阅读器 [官网](https://www.sumatrapdfreader.org/free-pdf-reader.html)  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/SumatraPDF.exe)————————多格式支持 畅快 小巧
 
 ### 4.视频软件

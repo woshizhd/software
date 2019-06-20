@@ -64,8 +64,9 @@
 ##### 精简系统  [win10-x86](https://github.com/woshizhd/software/releases/download/win10-x86-win/win10x86.iso)  [xp-iso](https://github.com/woshizhd/software/releases/download/xp-iso-win/WinXP_Final_20170720.iso)
 
 #### 安装方法
-##### 系统启动盘制作：[科普](https://zhuanlan.zhihu.com/p/46580355)   [软件官网](https://rufus.akeo.ie/) 
-##### PE盘制作：[科普](https://www.winos.me/archives/225.html)   [软件官网](http://www.wepe.com.cn/download.html)   [软件备份下载](https://github.com/woshizhd/software/releases/download/%E5%BE%AEPE2.0-winx86/wepe2.0.exe)  [rufus](https://rufus.ie/)
+##### 系统启动盘制作：[科普](https://zhuanlan.zhihu.com/p/46580355)   [rufus](https://rufus.ie/)
+##### PE盘制作：[科普](https://www.winos.me/archives/225.html)   [软件官网](http://www.wepe.com.cn/download.html)   [软件备份下载](https://github.com/woshizhd/software/releases/download/%E5%BE%AEPE2.0-winx86/wepe2.0.exe)  
+##### [WEPE参考资料](http://www.wepe.com.cn/ubook/)
 
 #### 系统激活
 ##### AAct.exe [软件备份下载](http://www.aichunjing.com/jhgj1/)

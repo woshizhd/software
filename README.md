@@ -70,7 +70,7 @@
 
 #### 系统激活
 ##### AAct.exe [下载1](http://www.aichunjing.com/jhgj1/) [下载2](https://www.ccava.net/category-44.html) 
-##### KMS [导航链接](https://v0v.bid/)
+##### KMS [导航链接](https://v0v.bid/)  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/kmspro.7z)
 
 #### 驱动安装
 ##### 驱动精灵免安装版   [软件备份下载](https://github.com/woshizhd/software/blob/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/%E9%A9%B1%E5%8A%A8%E7%B2%BE%E7%81%B5.exe)

@@ -69,7 +69,7 @@
 ##### [WEPE参考资料](http://www.wepe.com.cn/ubook/)
 
 #### 系统激活
-##### AAct.exe [下载1](http://www.aichunjing.com/jhgj1/) [下载2](https://www.ccava.net/category-44.html) [下载3](https://free.appnee.com/category/microsoft/)
+##### AAct.exe [下载1](http://www.aichunjing.com/jhgj1/) [下载2](https://www.ccava.net/category-44.html) 
 ##### KMS [导航链接](https://v0v.bid/)
 
 #### 驱动安装

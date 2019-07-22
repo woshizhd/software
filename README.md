@@ -83,9 +83,9 @@
 #### Google Chrome  [友链](https://tools.shuax.com/chrome/#/)  [软件备份下载](https://github.com/woshizhd/software/releases/download/google-chrome-64.0-winx64/Google.Chrome.zip)
 ##### 插件推荐
 ###### [Chrome插件英雄榜](https://zhaoolee.gitbooks.io/chrome/content/)
-###### uBlock Origin [链接](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=chrome-ntp-icon) [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Adblock-Plus_v1.11.crx)
-###### skyZIP谷歌上网助手 [链接](https://chrome.google.com/webstore/detail/skyzip-proxy/hbgknjagaclofapkgkeapamhmglnbphi?utm_source=chrome-app-launcher-info-dialog) [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/skyZIP%E2%84%A2-Proxy_v0.8.3.crx)
-###### 油猴 [链接](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-app-launcher-info-dialog)  [科普](https://juejin.im/post/5a538aa9518825732e2f2849)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Tampermonkey_v4.5.crx)
+###### uBlock Origin 广告屏蔽 [链接](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=chrome-ntp-icon) [备份下载](https://github.com/woshizhd/software/raw/master/win/Chrome%20extensions/uBlock%20Origin%201_21_2_0.crx)
+###### skyZIP 谷歌上网助手 [链接](https://chrome.google.com/webstore/detail/skyzip-proxy/hbgknjagaclofapkgkeapamhmglnbphi?utm_source=chrome-app-launcher-info-dialog) [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/skyZIP%E2%84%A2-Proxy_v0.8.3.crx)
+###### 油猴 Tampermonkey 脚本插件 [链接](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-app-launcher-info-dialog)  [科普](https://juejin.im/post/5a538aa9518825732e2f2849)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Tampermonkey_v4.5.crx)
 ###### Dream-Afar标签美化   [科普](https://sspai.com/post/41439) [链接](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn?utm_source=chrome-app-launcher-info-dialog)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Dream-Afar-New-Tab_v0.3.12.crx)
 
 #### FireFox [官网下载](https://www.mozilla.org/zh-CN/firefox/organizations/all/)    [RunningCheese Firefox](https://www.runningcheese.com/v10)

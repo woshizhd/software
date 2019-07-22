@@ -83,15 +83,15 @@
 #### Google Chrome  [友链](https://tools.shuax.com/chrome/#/)  [软件备份下载](https://github.com/woshizhd/software/releases/download/google-chrome-64.0-winx64/Google.Chrome.zip)
 ##### 插件推荐
 ###### [Chrome插件英雄榜](https://zhaoolee.gitbooks.io/chrome/content/)
-###### ABP广告拦截  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Adblock-Plus_v1.11.crx)
-###### skyZIP谷歌上网助手  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/skyZIP%E2%84%A2-Proxy_v0.8.3.crx)
-###### 油猴   [科普](https://juejin.im/post/5a538aa9518825732e2f2849)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Tampermonkey_v4.5.crx)
-###### Dream-Afar标签美化   [科普](https://sspai.com/post/41439)   [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Dream-Afar-New-Tab_v0.3.12.crx)
+###### uBlock Origin [链接](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=chrome-ntp-icon) [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Adblock-Plus_v1.11.crx)
+###### skyZIP谷歌上网助手 [链接](https://chrome.google.com/webstore/detail/skyzip-proxy/hbgknjagaclofapkgkeapamhmglnbphi?utm_source=chrome-app-launcher-info-dialog) [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/skyZIP%E2%84%A2-Proxy_v0.8.3.crx)
+###### 油猴 [链接](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-app-launcher-info-dialog)  [科普](https://juejin.im/post/5a538aa9518825732e2f2849)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Tampermonkey_v4.5.crx)
+###### Dream-Afar标签美化   [科普](https://sspai.com/post/41439) [链接](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn?utm_source=chrome-app-launcher-info-dialog)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Dream-Afar-New-Tab_v0.3.12.crx)
 
 #### FireFox [官网下载](https://www.mozilla.org/zh-CN/firefox/organizations/all/)    [RunningCheese Firefox](https://www.runningcheese.com/v10)
 
 ### 3.办公软件
-#### Office2013绿色版 [软件备份下载](https://github.com/woshizhd/software/releases/download/office2013%EF%BC%8D4%E5%90%881%E7%B2%BE%E7%B0%A1%E7%89%88%EF%BC%8Dwin/Office2013_4in1_2018.02.01_by_xb21cn.7z)  [Office下载安装汇总](https://www.zhyong.cn/posts/bb2e/)
+#### Office Tool [官网](https://otp.landian.vip/zh-cn/) [office2013 绿色版下载](https://github.com/woshizhd/software/releases/download/office2013%EF%BC%8D4%E5%90%881%E7%B2%BE%E7%B0%A1%E7%89%88%EF%BC%8Dwin/Office2013_4in1_2018.02.01_by_xb21cn.7z)————极速下载、部署、卸载各版本office的管理小工具
 #### sumatraPDF阅读器 [官网](https://www.sumatrapdfreader.org/free-pdf-reader.html)  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/SumatraPDF.exe)————————多格式支持 畅快 小巧
 #### foxipdf [下载链接](https://www.repaik.com/forum.php?mod=forumdisplay&fid=68&filter=typeid&typeid=169)
 
@@ -114,6 +114,7 @@
 #### Notepad++  [官网](https://notepad-plus-plus.org/)  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/npp.7.6.3.bin.minimalist.7z)————轻便 强大
 #### IDM6.31.2绿色版  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/IDM6.31.2%E7%BB%BF%E8%89%B2%E7%89%88.7z)
 #### Pandownload 2.0.3  [官网](http://pandownload.com/)  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/PanDownload_v2.0.3.zip)
+#### 迅雷 [备份下载](https://github.com/woshizhd/software/raw/master/win/%E8%BF%85%E9%9B%B7%E6%9E%81%E9%80%9F%E7%89%88%20v1.0.35.366.rar)————哎，作死的迅雷，暂时能用的版本……
 #### 卡硬工具箱 [官网](http://www.kbtool.cn/)————集百家之长，掌握主机的每个角落
 #### 分流抢火车票 [官网](https://www.12306bypass.com/)————小巧 强大
 

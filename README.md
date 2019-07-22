@@ -22,7 +22,7 @@
 ### 2.推荐应用
 #### Star VPN(美区) [appstore链接](https://itunes.apple.com/us/app/star-vpn-unlimited-vpn-proxy/id1115864690?mt=8)  VPN 360(美区) [appstore链接](https://itunes.apple.com/us/app/vpn-360-unlimited-vpn-proxy/id1193154948?mt=8)  Potatso Lite(美区) [appstore链接](https://itunes.apple.com/us/app/potatso-lite/id1239860606?mt=8)
 
-#### 捷径（原workflow）[科普](https://www.wenlc.com/weixin/20180921A1FLXQ00.html)   [appstore链接](https://itunes.apple.com/cn/app/%E6%8D%B7%E5%BE%84/id915249334?mt=8)
+#### 捷径（原workflow）[科普](https://www.wenlc.com/weixin/20180921A1FLXQ00.html)   [appstore链接](https://itunes.apple.com/cn/app/%E6%8D%B7%E5%BE%84/id915249334?mt=8) [社区](https://sharecuts.cn/)
 #### Pin [科普](https://www.wenlc.com/weixin/20180426A192I300.html)   [appstore链接](https://itunes.apple.com/cn/app/pin-%E5%89%AA%E8%B4%B4%E6%9D%BF%E6%89%A9%E5%B1%95/id1039643846?mt=8)
 ### 3.第三方软件库 i4助手 [官网](https://www.i4.cn/)
 ### 4.酸酸乳

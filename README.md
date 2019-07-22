@@ -26,7 +26,7 @@
 #### Pin [科普](https://www.wenlc.com/weixin/20180426A192I300.html)   [appstore链接](https://itunes.apple.com/cn/app/pin-%E5%89%AA%E8%B4%B4%E6%9D%BF%E6%89%A9%E5%B1%95/id1039643846?mt=8)
 ### 3.第三方软件库 i4助手 [官网](https://www.i4.cn/)
 ### 4.酸酸乳
-#### Shadowrocket    [appstore链接](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)  [分享账号](https://mp.weixin.qq.com/s?src=11&timestamp=1550904291&ver=1445&signature=FDDnLB4HVIf5LuPpw4dGysKmuBCkaib8WCRSYHgd9Ai14kgPSXZJ4j-IhVj87fT3MBPggzGJuqLuivcq0WLO8*eVPDwBilNPHhwRrX3MWFGTkTCZb5FHtufxr-wTrbPx&new=1)  [ipa下载](https://github.com/woshizhd/software/raw/master/ios/Shadowrocket_2.1.23.ipa)
+#### Shadowrocket    [appstore链接](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)  [分享账号](https://www.gxzyzd.com/)  [ipa下载](https://github.com/woshizhd/software/raw/master/ios/Shadowrocket_2.1.23.ipa)
 
 
 

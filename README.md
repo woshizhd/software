@@ -61,7 +61,7 @@
 ### 1.系统安装
 #### 系统来源：
 ##### 纯净系统： [itellyou](https://msdn.itellyou.cn/)
-##### 优化系统： [专注于 win10](https://iwin10.net/)
+##### 优化系统： [专注于 win10](http://iwin10.net/)
 ##### 精简系统  [win10-x86](https://github.com/woshizhd/software/releases/download/win10-x86-win/win10x86.iso)  [xp-iso](https://github.com/woshizhd/software/releases/download/xp-iso-win/WinXP_Final_20170720.iso)
 
 #### 安装方法

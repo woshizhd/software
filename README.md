@@ -60,7 +60,8 @@
 ### [Awesome Win](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 ### 1.系统安装
 #### 系统来源：
-##### 纯净系统： [下载地址](https://msdn.itellyou.cn/)
+##### 纯净系统： [itellyou](https://msdn.itellyou.cn/)
+##### 优化系统： [专注于 win10](https://iwin10.net/)
 ##### 精简系统  [win10-x86](https://github.com/woshizhd/software/releases/download/win10-x86-win/win10x86.iso)  [xp-iso](https://github.com/woshizhd/software/releases/download/xp-iso-win/WinXP_Final_20170720.iso)
 
 #### 安装方法
@@ -74,7 +75,7 @@
 ##### KMS [导航链接](https://v0v.bid/)  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/kmspro.7z)
 
 #### 驱动安装
-##### 驱动精灵免安装版   [软件备份下载](https://github.com/woshizhd/software/blob/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/%E9%A9%B1%E5%8A%A8%E7%B2%BE%E7%81%B5.exe)
+##### 驱动人生免安装版   [软件备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/DriveTheLife.7z)
 
 #### hash MD5检测
 ##### Hash_1.0.4 [科普](https://xuanwo.io/2015/10/28/hashsum/) [软件备份下载](https://github.com/woshizhd/software/blob/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/Hash_1.0.4.exe)

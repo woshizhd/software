@@ -95,6 +95,7 @@
 #### Office Tool [官网](https://otp.landian.vip/zh-cn/) [office2013 绿色版下载](https://github.com/woshizhd/software/releases/download/office2013%EF%BC%8D4%E5%90%881%E7%B2%BE%E7%B0%A1%E7%89%88%EF%BC%8Dwin/Office2013_4in1_2018.02.01_by_xb21cn.7z)————极速下载、部署、卸载各版本office的管理小工具
 #### sumatraPDF阅读器 [官网](https://www.sumatrapdfreader.org/free-pdf-reader.html)  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/SumatraPDF.exe)————————多格式支持 畅快 小巧
 #### foxipdf [下载链接](https://www.repaik.com/forum.php?mod=forumdisplay&fid=68&filter=typeid&typeid=169)
+#### everything [官网](https://www.voidtools.com/zh-cn/)————小巧、强大的全局搜索工具
 
 ### 4.视频软件
 #### 观看软件：popcorn time  [软件官网](https://www.popcorn-time.to/)

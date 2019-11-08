@@ -125,6 +125,9 @@
 ### 9.软路由
 #### Roadkil's Disk Image  [官网](http://www.roadkil.net/program.php?ProgramID=12&Action=NewOSID&DownloadVersion=12&Installer=NO)  [备份下载](https://github.com/woshizhd/software/raw/master/win/diskimage.exe)
 
+### 10.网络工具
+#### putty [官网](https://putty.org/)
+#### softperfect network scanner [官网](https://www.softperfect.com/products/networkscanner/)
 
 
 

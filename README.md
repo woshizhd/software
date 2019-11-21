@@ -71,7 +71,7 @@
 
 #### 系统激活
 ##### 暴风激活  [官网](http://www.baofengjihuo.com/)  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/%E6%9A%B4%E9%A3%8E%E6%BF%80%E6%B4%BBV17.0.zip)
-##### AAct.exe [下载1](http://www.aichunjing.com/jhgj1/) [下载2](https://www.ccava.net/category-44.html) 
+##### HEU_KMS_Activator [官网](https://github.com/zbezj/HEU_KMS_Activator) 
 ##### KMS [导航链接](https://v0v.bid/)  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/kmspro.7z)
 
 #### 驱动安装

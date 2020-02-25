@@ -72,7 +72,7 @@
 #### 系统激活
 ##### 暴风激活  [官网](http://www.baofengjihuo.com/)  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/%E6%9A%B4%E9%A3%8E%E6%BF%80%E6%B4%BBV17.0.zip)
 ##### HEU_KMS_Activator [官网](https://github.com/zbezj/HEU_KMS_Activator) 
-##### KMS [导航链接](https://v0v.bid/)  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/kmspro.7z) [备份导航](https://kms.cangshui.net/)  [备份下载2](https://rx82vg.sn.files.1drv.com/y4m6bwsisT0QvGJ5oPos6zY5r7pW4nJlRiiQDlymq5z7w4acuZUqbrkb3Qt6KgmW_Z5KotOMbb18NuDg261pFabFTni-Eb0Tl5RSQgGsUWyPI8EGB7d1Z4FO_5XapJkg-tPA1j57VcRJkazYiJh0EA4j0vysDKwK9N3TaiC-u2S8bjEV4t6siA45QjCtpCbC1zgBpFm7APM7yTA6r30K7oy-w/KMS-Cangshui.net.bat?download&psid=1)
+##### KMS [导航链接](https://v0v.bid/)  [备份下载](https://dtid_8a5fe2b99aca19f5.coding.net/api/project/1421393/files/18346559/download) [备份导航](https://kms.cangshui.net/)  [备份下载2](https://dtid_8a5fe2b99aca19f5.coding.net/api/project/1421393/files/18346567/download)
 ##### HWIDGen Windows 10 數位授權工具  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/HWIDGen_60.01.7z)
 
 #### 驱动安装

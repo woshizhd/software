@@ -121,6 +121,8 @@
 #### Pandownload 2.0.3  [官网](http://pandownload.com/)  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/PanDownload_v2.0.3.zip)
 #### 迅雷 [备份下载](https://github.com/woshizhd/software/raw/master/win/%E8%BF%85%E9%9B%B7%E6%9E%81%E9%80%9F%E7%89%88%20v1.0.35.366.rar)————哎，作死的迅雷，暂时能用的版本……
 #### 卡硬工具箱 [官网](http://www.kbtool.cn/)————集百家之长，掌握主机的每个角落
+####  h2testw_1.4 [下载](https://github.com/woshizhd/software/raw/master/win/h2testw_1.4.exe)————短小精悍的扩容盘检测工具
+####  MyDiskTest-2.98  [下载](https://github.com/woshizhd/software/raw/master/win/MyDiskTest_v298.exe)————小巧的U盘检测工具
 #### 分流抢火车票 [官网](https://www.12306bypass.com/)————小巧 强大
 
 ### 9.软路由

@@ -100,11 +100,11 @@
 
 ### 4.视频软件
 #### 观看软件：popcorn time  [软件官网](https://www.popcorn-time.to/)
-#### 播放器：potplayer [软件官网](http://potplayer.daum.net/?lang=zh_CN)   [软件备份下载](https://github.com/woshizhd/software/raw/master/win/Daum%20Potplayer%20v1.7.18344_64bit.7z)
+#### 播放器：potplayer [软件官网](http://potplayer.daum.net/?lang=zh_CN)   [软件备份下载](https://vip.d0.baidupan.com/file/?VTMBPwEwV2ZRWFZuAjcFaVVqADheRVc0C3lQOwF9BicGcABmCXpUNwR8UDcBbQIwWjQAMQQECj4BMls/AjcBdFV7AWEBJlclUWFWaQI6BWFVUABsXmVXaAs9UG4BZQY2BjIAYwltVDUEdFBgASYCPloyADYEaAo8ATJbagJpATNVcwEmASxXPlE1VjACZAU0VSAANV4yV3oLPVBkAXIGZgZgAGEJYVQ1BGZQYgE0AmFaMwA9BDoKaQE2Wz4COgFkVTcBNAFvVzJRNFZiAm4FNFU8AGFeOVdjCzpQNAFpBikGMQAtCXJUdQQhUGMBJwJqWmQAOARqCjsBNlttAmwBMFVtAXABKFdqUWpWZQIwBTlVPgAwXjlXZgs1UG8BbAYwBjIAbgl6VCYEJ1B2AWgCMlouACMEPQpkAXFbYAJuASZVIAEmAStXPlE2VjUCbgU3VTYAPV44V2wLO1BgAXsGcgZvACcJaVQxBGNQMwF7AjFaMwA9BHUKOwE+W3MCbAE0VWc=)
 
 ### 5.通讯软件
 #### QQlite绿色版 [软件备份下载](https://github.com/woshizhd/software/releases/download/qq%E7%B6%A0%E8%89%B2%E7%B2%BE%E7%B0%A1%E7%89%887.9/QQ7.9lite.7z)————简单 畅快
-#### Teamviewer [官网](https://www.teamviewer.cn/cn/)  [备份下载](https://github.com/woshizhd/software/raw/master/win/TeamViewer.exe)
+#### Teamviewer [官网](https://www.teamviewer.cn/cn/)  [备份下载](https://vip.d0.baidupan.com/file/?AGZSbF1sBDVRWFZuBDEGagQ7DzdfVAFmA2VSOQcNBm4CZ1t7CDAOKFIqUGMDL1QwVytUN1NlB2lXNVYPBjNaPwA9UjRdOARoUTZWNQRhBjEEaQ8sX2YBcAM5UmUHYgY0AjNbOQhhDm9SMlAgAydUJVcwVGNTPAc3V2BWfwZqWmgAL1I0XTIEf1EzVjAEYQY2BGcPPl9jATMDYFI2Bz0GNAI0WzUIZg45UjxQNgNlVGdXP1RoU2kHNVdoVmMGYlpiAGRSZF03BGdRKVZlBCgGYgR4D39fcwFmA3ZSPQc/BjoCM1s/CGUOalI2UDYDb1RzV3lUOFNhB2BXNlZtBmtabgA4UjZdOQRpUTZWOARiBjAEcA8sX3UBcwM5UmUHdQYhAmRbYAgiDmdSNFAgAyJUJVd6VGxTPQcwV2hWYwZjWmIAMFI9XTEEaFEhVnUEOQZ3BGMPO18xATYDKlJmB2gGPwIsWz8IbQ50UjZQMgNl)
 #### 向日葵 [官网](http://sunlogin.oray.com/personal/download/)  [备份下载](https://vip.d0.baidupan.com/file/?AmQGOF1sVGVRWFBoV2JXO1BvBT1SXgJ1AGlaMFFiUzUHblZvCBYFPQE+BjUEPgF0UycPb1dwC2wCIwNjBzJXOgJnBg5daVRkUTpQN1c7V25QOwU0UjkCOQA+WnpRa1MhBzpWNQhkBWABZQZmBGkBNlMvD3pXeAs0AjcDNQdpV2YCLQZhXTNUL1E2UDRXLFdnUGgFZFI1AmYANFpqUTVTYgcyVmQIYAUwATUGMgRjAWJTMA8zVzELPgI0A2YHaldkAjUGYF05VDBRNFBgVztXeFBvBXhSaAImAHJaL1FoUyAHblZlCGgFYAFkBmAEYAEyUzkPMlcuC30CbANoBz5XMAI/BmBdNVQ4UTRQP1c6V2dQOQUzUj0CLgAhWilRfVNvBzZWLwhzBTcBOwYnBG0BMFMvD39XeAt+AjgDNAduV24CMQZoXThUOVE+UDFXOldwUH8FaVJ9Aj0ANlptUThTfAc1VjIIbQV/AWQGaAR+ATJTPQ84)
 
 ### 6.解压软件
@@ -118,7 +118,7 @@
 #### Dism ++    [官网](https://www.chuyu.me/zh-Hant/)  ————轻便 强大的windows 管理工具
 #### Notepad++  [官网](https://notepad-plus-plus.org/)  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/npp.7.6.3.bin.minimalist.7z)————轻便 强大
 #### IDM6.31.2绿色版  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/IDM6.31.2%E7%BB%BF%E8%89%B2%E7%89%88.7z)
-#### Pandownload 2.0.3  [官网](http://pandownload.com/)  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/PanDownload_v2.0.3.zip)
+#### Pandownload 2.0.3  [官网](http://pandownload.com/) 
 #### 迅雷 [备份下载](https://github.com/woshizhd/software/raw/master/win/%E8%BF%85%E9%9B%B7%E6%9E%81%E9%80%9F%E7%89%88%20v1.0.35.366.rar)————哎，作死的迅雷，暂时能用的版本……
 #### 卡硬工具箱 [官网](http://www.kbtool.cn/)————集百家之长，掌握主机的每个角落
 ####  h2testw_1.4 [下载](https://github.com/woshizhd/software/raw/master/win/h2testw_1.4.exe)————短小精悍的扩容盘检测工具

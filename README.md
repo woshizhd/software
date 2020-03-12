@@ -94,7 +94,7 @@
 
 ### 3.办公软件
 #### Office Tool [官网](https://otp.landian.vip/zh-cn/) [office2016 4in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/project/1421393/files/18590203/download) [office2013 6in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/project/1421393/files/18590153/download)————极速下载、部署、卸载各版本office的管理小工具
-#### sumatraPDF阅读器 [官网](https://www.sumatrapdfreader.org/free-pdf-reader.html)  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/SumatraPDF.exe)————————多格式支持 畅快 小巧
+#### sumatraPDF阅读器 [官网](https://www.sumatrapdfreader.org/free-pdf-reader.html)  [软件备份下载](https://vip.d0.baidupan.com/file/?VzFQbgEwBTQFDFZuATRdMQc4AjoDD1MkA2lWMVN7VyQCYwEGCBEGFAZ+AzBXe1UxAHxTMFBmAG5WNFMKXWhQNVdqUDYBZAVpBWJWNAFmXWoHagIhAzpTIgM5VmdTP1djAjcBYghmBmAGdgMlV3NVaQBoU2ZQPQAyVn5TZV0yUH5XZlA1AXMFMAU1VjIBMF1vB2QCMwM+UzcDNFYzU2tXYgI2AWYIZwZiBjMDMFc6VTUAP1M1UDsANFZiUzNdZ1BnV2VQNgFsBX8FNlZ4ATBdegcoAnQDOVMjA21WNFMyV2cCMQFmCGUGYAZgA21XJVUgADNTO1BqAGRWbFNkXTRQaVdkUD4BZQVjBWNWNAFlXXIHewJyAyxTbAM1Vn5TKVcwAm4BIQhoBmIGdgMgV3NVIwBnU2dQOgA6VmJTbF05UGhXb1AzAW8FdwUmVmkBJV1hB2wCNgNpU38DNlZjUzdXeAIxAW4IewZgBmQDZw==)————————多格式支持 畅快 小巧
 #### foxipdf [下载链接](https://www.repaik.com/forum.php?mod=forumdisplay&fid=68&filter=typeid&typeid=169)
 #### everything [官网](https://www.voidtools.com/zh-cn/)————小巧、强大的全局搜索工具
 

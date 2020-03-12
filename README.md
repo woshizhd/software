@@ -105,10 +105,10 @@
 ### 5.通讯软件
 #### QQlite绿色版 [软件备份下载](https://github.com/woshizhd/software/releases/download/qq%E7%B6%A0%E8%89%B2%E7%B2%BE%E7%B0%A1%E7%89%887.9/QQ7.9lite.7z)————简单 畅快
 #### Teamviewer [官网](https://www.teamviewer.cn/cn/)  [备份下载](https://github.com/woshizhd/software/raw/master/win/TeamViewer.exe)
-#### 向日葵 [官网](http://sunlogin.oray.com/personal/download/)  [备份下载](https://github.com/woshizhd/software/raw/master/win/SunloginClient.exe)
+#### 向日葵 [官网](http://sunlogin.oray.com/personal/download/)  [备份下载](https://vip.d0.baidupan.com/file/?AmQGOF1sVGVRWFBoV2JXO1BvBT1SXgJ1AGlaMFFiUzUHblZvCBYFPQE+BjUEPgF0UycPb1dwC2wCIwNjBzJXOgJnBg5daVRkUTpQN1c7V25QOwU0UjkCOQA+WnpRa1MhBzpWNQhkBWABZQZmBGkBNlMvD3pXeAs0AjcDNQdpV2YCLQZhXTNUL1E2UDRXLFdnUGgFZFI1AmYANFpqUTVTYgcyVmQIYAUwATUGMgRjAWJTMA8zVzELPgI0A2YHaldkAjUGYF05VDBRNFBgVztXeFBvBXhSaAImAHJaL1FoUyAHblZlCGgFYAFkBmAEYAEyUzkPMlcuC30CbANoBz5XMAI/BmBdNVQ4UTRQP1c6V2dQOQUzUj0CLgAhWilRfVNvBzZWLwhzBTcBOwYnBG0BMFMvD39XeAt+AjgDNAduV24CMQZoXThUOVE+UDFXOldwUH8FaVJ9Aj0ANlptUThTfAc1VjIIbQV/AWQGaAR+ATJTPQ84)
 
 ### 6.解压软件
-#### bandzip [软件官网](http://bandisoft.com/)  [软件备份下载](https://github.com/woshizhd/software/releases/download/bandzip-6.12-win/BANDIZIP-SETUP.EXE)————全面 好用
+#### bandzip [软件官网](http://bandisoft.com/)  [软件备份下载](https://vip.d0.baidupan.com/file/?VDJXaVprADFSW1dvCz5RPVdoUGhfQlESURgHRQAVUQoGTwIFXS1VUlFCBAZUVQZXB3MFZQAnUzQGJ1Y2UGVaN1QxV19abgAwUjlXMAtnUWhXPFBhXzNRYFFlBycAOlEjBjsCYF0zVTlRPwRiVDQGNwd7BXAAL1NsBjNWYFA+WmtUe1cwWjQAe1I1VzMLcFFgVztQbF81UWdRYQc5AG1RYgYxAjBdM1U1UTQEN1RiBjMHZAUzAGpTNAY4VmJQalpvVGNXYlo3ADBSPVc1C2tRfldoUC1fZVF1USMHcgA5USIGbwIxXT1VMFE0BGJUMAY1B20FOAB5UyUGaFY9UGlaPVRpVzFaMgBsUjdXOAtmUWFXOVBtXzNRfVFwB3QALFFtBjcCe10mVWdRawQlVD0GNwd7BXUAL1MmBjxWYVA5WmNUZ1c5Wj8AbVIzVzgLalF2V3hQPF9wUW5RZwcwAGlRfgY0AmZdOFUvUTQEalQuBjUHaQUy)————全面 好用
 
 ### 7.fuck wall
 #### ssr-shadowsocksR——[官网](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) [科普](https://lolico.moe/tutorial/shadowsocksr.html/comment-page-3)

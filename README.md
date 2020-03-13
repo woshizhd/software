@@ -57,7 +57,7 @@
 
 
 ## 四. win
-### [Awesome Win](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
+### [Awesome Win](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)  [win.gxzyzd.com](https://win.gxzyzd.com/)
 ### 1.系统安装
 #### 系统来源：
 ##### 纯净系统： [itellyou](https://msdn.itellyou.cn/)
@@ -109,6 +109,7 @@
 
 ### 6.解压软件
 #### bandzip [软件官网](http://bandisoft.com/)  [软件备份下载](https://vip.d0.baidupan.com/file/?VDJXaVprADFSW1dvCz5RPVdoUGhfQlESURgHRQAVUQoGTwIFXS1VUlFCBAZUVQZXB3MFZQAnUzQGJ1Y2UGVaN1QxV19abgAwUjlXMAtnUWhXPFBhXzNRYFFlBycAOlEjBjsCYF0zVTlRPwRiVDQGNwd7BXAAL1NsBjNWYFA+WmtUe1cwWjQAe1I1VzMLcFFgVztQbF81UWdRYQc5AG1RYgYxAjBdM1U1UTQEN1RiBjMHZAUzAGpTNAY4VmJQalpvVGNXYlo3ADBSPVc1C2tRfldoUC1fZVF1USMHcgA5USIGbwIxXT1VMFE0BGJUMAY1B20FOAB5UyUGaFY9UGlaPVRpVzFaMgBsUjdXOAtmUWFXOVBtXzNRfVFwB3QALFFtBjcCe10mVWdRawQlVD0GNwd7BXUAL1MmBjxWYVA5WmNUZ1c5Wj8AbVIzVzgLalF2V3hQPF9wUW5RZwcwAGlRfgY0AmZdOFUvUTQEalQuBjUHaQUy)————全面 好用
+#### 7-zip  [官网](https://www.7-zip.org/)————小巧、强大
 
 ### 7.fuck wall
 #### ssr-shadowsocksR——[官网](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) [科普](https://lolico.moe/tutorial/shadowsocksr.html/comment-page-3)  [备份下载](https://vip.d0.baidupan.com/file/?CW8CPFxtVGVUXQQ8UWRXOwQ7BDxUWApgA2UHZVZlA3VUJwI6W2UHOFJ3BwMAeVFkWi4FN1YnUWNWfFsqU2ZUOwknAmJce1QmVGQEO1FpVzMEAQRoVG8KNQM1BzlWMgMzVGACYVs/B2VSIgc3ACdRbVo3BTFWPFFmVmlbalMpVCUJeQJoXDNUMFQwBGJRKldmBG0ELlQ6CjoDKwc0VjgDNVRgAmVbMgdnUj0HZQA2UWFaMgU2VjhRZlY1WzhTP1RlCWoCM1xkVDZUNQQ2UTxXNARsBGJUaQptAzMHL1Y9A3hUcgIgW3UHNlJ2BzgAMFFtWjEFM1Y5UWNWY1ttUzdUcwl9AjxcbFRlVGQEb1E0V2MEZgQyVDIKMQM3BzNWPgM0VHoCc1tzByNSOQdgAHpRdlpmBWxWflFuVmFbe1N6VCUJfgJoXDBUNVQ6BGFRPFduBGcEOFQ8Cj8DIgd0VmMDclRpAmRbNwdmUioHYwBnUWhaLgUzVjFRfVZjW2lTPQ==)
@@ -117,7 +118,7 @@
 ### 8.工具类
 #### Dism ++    [官网](https://www.chuyu.me/zh-Hant/)  ————轻便 强大的windows 管理工具
 #### Notepad++  [官网](https://notepad-plus-plus.org/)  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/npp.7.6.3.bin.minimalist.7z)————轻便 强大
-#### IDM6.31.2绿色版  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/IDM6.31.2%E7%BB%BF%E8%89%B2%E7%89%88.7z)
+#### IDM  [备份下载](https://vip.d0.baidupan.com/file/?UzVTbVxtADEJAAc/AzZRPVRrBT0HEQBsBWcEdgIaB2lTJFFoDD0GPQUyU2ELElIyV2MFYQQ8AWZRJFZwVjxQf1NgUzNcLwBhCbgH/wPXUbRUswWTB7wAugWvBOQCyAeBU7RRnQzlBroF8FOAC7hS81e5BegE/AGgUbFW2VaCUH9TNlN8XGQAcgk5BzgDO1E1VFEFaQc8AD8FMwQ6Am0HN1NmUTEMZAZnBXVTYwssUm5XOgU1BGgBOlFgVmNWOVB3UyNTdFw8AGYJbwdjA2dRf1Q+BTMHdwAyBTAELQI6B2dTa1E/DGkGMAVjUzELPFJlVzwFNQRtATRRYVYxVjJQZFNiUzdcMABnCT4HYANjUWdUOwU3B2AAMQU6BDUCcAdjUytRYwx3BicFIFNgCy1SOldpBT0EbwE2UWdWYFY4UGhTdVNwXGgAOQk6BzcDalFhVDsFOAdsADIFNQQ6AmcHN1NlUSgMdwYnBSNTOAtuUn1XKwVmBDcBdFFrVmFWP1BpU2dTNFwxAGAJaAdoA29RdlR7BXAHLwA/BTMENwJmBzVTYlEyDGYGYAVlUz0LeVImV2QFcARmATJRZ1ZlViRQY1NgUzxcLwBnCWcHfwNlUWRUPA==)
 #### Pandownload 2.0.3  [官网](http://pandownload.com/) 
 #### 迅雷 [备份下载](https://github.com/woshizhd/software/raw/master/win/%E8%BF%85%E9%9B%B7%E6%9E%81%E9%80%9F%E7%89%88%20v1.0.35.366.rar)————哎，作死的迅雷，暂时能用的版本……
 #### 卡硬工具箱 [官网](http://www.kbtool.cn/)————集百家之长，掌握主机的每个角落

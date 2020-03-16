@@ -82,7 +82,7 @@
 ##### Hash_1.0.4 [科普](https://xuanwo.io/2015/10/28/hashsum/) [软件备份下载](https://github.com/woshizhd/software/blob/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/Hash_1.0.4.exe)
 
 ### 2.浏览器
-#### Google Chrome  [官网](https://www.google.cn/chrome/) [友链](https://tools.shuax.com/chrome/#/)  [软件备份下载](https://github.com/woshizhd/software/releases/download/google-chrome-64.0-winx64/Google.Chrome.zip)
+#### Google Chrome  [官网](https://www.google.cn/chrome/) [友链](https://tools.shuax.com/chrome/#/)  [基本插件版](https://vip.d0.baidupan.com/file/?AmRRb1prBTQACVNrADVRPVJtV28EHFY7BW1RMFdnUzdUF1NsCyRXbAI5U2ADCAJbUzEAM1JSBD4FMlF5UDxUewIxUT9aPwVmAHhTNABnUWJSV1chBDNWIQVjUS9XJVMxVDtTaQt2VysCZlMsA3kCNFNzACNSawRvBW5RMlBTVDwCZlE7WjYFaABmUzAAZVFhUjtXYQR9VjIFcVFqVzJTZFRnUzQLb1c3AmVTPQNxAnNTeQA4Uj8ENgUwUWdQI1RlAjFRKVo2BWcAeVNnADZRYVIwVzAEaFZsBTRRNFc6UzBUZ1M3C2RXMAIwUzIDMgI2U28AN1I8BDEFZ1FuUD1UZQJmUWVaNwVmAGdTKwBjUSpSLlcnBChWMQVwUT5Xb1NvVGVTNwtmVzMCZlM1A28CJVN9AGxSYARjBWRRalA9VGACOlEyWjQFYgBuUzEAZFFgUiZXdAQuViQFP1FmVyVTdFQyU2gLIVc+AmRTIwMiAnNTfgA4UjwEMwU6UWNQP1RmAjVRNVo+BWUAcFNwAD1RIFI1V2MEalZhBSxRZVc4U2pUelM3C25XLQJmUzEDZQ==)
 ##### 插件推荐
 ###### [Chrome插件英雄榜](https://zhaoolee.gitbooks.io/chrome/content/)
 ###### uBlock Origin 广告屏蔽 [链接](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=chrome-ntp-icon) [备份下载](https://github.com/woshizhd/software/raw/master/win/Chrome%20extensions/uBlock%20Origin%201_21_2_0.crx)

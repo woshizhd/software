@@ -33,17 +33,18 @@
 ## 三. osx
 ### [Awesome Mac](https://wangchujiang.com/awesome-mac/index.zh.html#totop)
 ### 1.虚拟机
-#### ParallelsDesktop13.2.0 [软件备份下载](https://github.com/woshizhd/software/releases/download/ParallelsDesktop13.2.0%E7%A0%B4%E8%A7%A3%E7%89%88%EF%BC%8Dmac/ParallelsDesktop13.2.0.dmg)
+#### ParallelsDesktop [官网](https://www.parallels.cn/)  [13.2.0 备份下载](https://github.com/woshizhd/software/releases/download/ParallelsDesktop13.2.0%E7%A0%B4%E8%A7%A3%E7%89%88%EF%BC%8Dmac/ParallelsDesktop13.2.0.dmg)
 
 ### 2.视频播放
-#### IINA.v0.0.15 [官网](https://lhc70000.github.io/iina/zh-cn/)   [软件备份下载](https://github.com/woshizhd/software/releases/download/IINA-mac/IINA.v0.0.15-build68.dmg)
+#### IINA. [官网](https://lhc70000.github.io/iina/zh-cn/)   [v0.0.15 软件备份下载](https://github.com/woshizhd/software/releases/download/IINA-mac/IINA.v0.0.15-build68.dmg)
 #### MPlayerX [官网](http://mplayerx.org/)  [软件备份下载](https://github.com/woshizhd/software/releases/download/MPlayerX_1.1.4%EF%BC%8Dmac/MPlayerX_1.1.4.zip)
 
 ### 3.清理工具 
-#### cleanmymac 3.9  [软件备份下载](https://github.com/woshizhd/software/blob/master/osx/cleanmymac.zip)
+#### cleanmymac  [官网](https://macpaw.com/cleanmymac) [3.9 备份下载](https://github.com/woshizhd/software/blob/master/osx/cleanmymac.zip)
 
 ### 4.解压软件
-#### BetterZip [官网](https://macitbetter.com/)  [软件备份下载](https://github.com/woshizhd/software/raw/master/osx/BetterZip%204.1.3.dmg)
+#### eZip [官网](https://ezip.awehunt.com/)————专为 macos 设计的压缩软件
+#### The Unarchiver [官网](https://theunarchiver.com/)
 
 ### 5.下载工具
 #### Aria2 [官网](https://aria2.github.io/)  [教程](https://yalv.me/aria2/)
@@ -66,7 +67,7 @@
 
 #### 安装方法
 ##### 系统启动盘制作：[科普](https://zhuanlan.zhihu.com/p/46580355)   [rufus](https://rufus.ie/)
-##### PE盘制作：[科普](https://www.winos.me/archives/225.html)   [软件官网](http://www.wepe.com.cn/download.html)   [软件备份下载](https://dtid_8a5fe2b99aca19f5.coding.net/api/project/1421393/files/5307890/download)  
+##### PE盘制作：[科普](https://www.winos.me/archives/225.html)   [WEPE 官网](http://www.wepe.com.cn/download.html)   [WEPE2.0 备份下载](https://dtid_8a5fe2b99aca19f5.coding.net/api/project/1421393/files/5307890/download)  
 ##### [WEPE参考资料](http://www.wepe.com.cn/ubook/)
 
 #### 系统激活

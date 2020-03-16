@@ -76,7 +76,7 @@
 ##### HWIDGen Windows 10 數位授權工具  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/HWIDGen_60.01.7z)
 
 #### 驱动安装
-##### 驱动人生免安装版   [软件备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/DriveTheLife.7z)
+##### 驱动人生免安装版   [软件备份下载](https://vip.d0.baidupan.com/file/?BWMBP1prUmNTWlFpAjcBbVplBDxXTAR0AG5VJVVsVwIEbAIwW0oCPwIyAzAFfwZ9BjVXIgR9BWEDbQZsVm8HWQVsATJaOlI3Uz1RPwJnATRaMwQ1VzgEIABhVSBVNFdlBDUCZVs2Am4CYwNgBWEGIQYsVyIEZgU1AzQGMlY6BykFNQFlWihSN1M3USgCZwFiWmUEMFdpBDYANVUwVTpXYwQ8AmVbMQJlAjcDMQU0BjIGbVc3BGwFMQNlBmVWOQcwBWQBYlo+UmRTNFFkAngBelppBHFXLgRzAHRVNlV7Vz8EYAJoWzcCZQJkA2UFYwY3BmRXdAQvBW4DaQZlVmwHOwU0AWNaP1IyUzZRNQJiATJaMwQ2VyYEIAByVSNVNFdnBCoCc1tgAjoCIwNoBWEGIQYpVyIELAU6AzUGNVYyBzUFPAFuWj5SPlM1UTACcAF1WmkEcVc1BDcANlVmVSdXZAQ3Am1bKAJlAmwDewVjBjMGbg==)
 
 #### hash MD5检测
 ##### Hash_1.0.4 [科普](https://xuanwo.io/2015/10/28/hashsum/) [软件备份下载](https://github.com/woshizhd/software/blob/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/Hash_1.0.4.exe)

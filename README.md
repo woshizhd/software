@@ -121,22 +121,23 @@
 #### Pandownload  [官网](http://pandownload.com/) 
 #### 迅雷 [备份下载](https://github.com/woshizhd/software/raw/master/win/%E8%BF%85%E9%9B%B7%E6%9E%81%E9%80%9F%E7%89%88%20v1.0.35.366.rar)————哎，作死的迅雷，暂时能用的版本……
 
-### 8.工具类
+### 9.工具类
 #### Dism ++    [官网](https://www.chuyu.me/zh-Hant/)  ————轻便 强大的windows 管理工具
-#### Notepad++  [官网](https://notepad-plus-plus.org/)  [软件备份下载](https://github.com/woshizhd/software/raw/master/win/npp.7.6.3.bin.minimalist.7z)————轻便 强大
+#### Notepad++  [官网](https://notepad-plus-plus.org/)  [软件备份下载](https://development0.baidupan.com/031921bb/2020/03/19/0318dcf41c835bf3cc42666a1356215e.7z?st=zK_Wwj2GbVf23-AC0UiznA&e=1584626886&b=AT0NfQZ2BS4DYVYuA2sPJQFhXC5WNQtkBDlYe1w2BG8EOAtiCGUCZgc_bU2xWdQJyBn1eNVYt&fi=19255570&up=1.)————轻便 强大
 
 #### 卡硬工具箱 [官网](http://www.kbtool.cn/)————集百家之长，掌握主机的每个角落
 ####  h2testw_1.4 [下载](https://github.com/woshizhd/software/raw/master/win/h2testw_1.4.exe)————短小精悍的扩容盘检测工具
 ####  MyDiskTest-2.98  [下载](https://github.com/woshizhd/software/raw/master/win/MyDiskTest_v298.exe)————小巧的U盘检测工具
 #### 分流抢火车票 [官网](https://www.12306bypass.com/)————小巧 强大
 
-### 9.软路由
+### 10.软路由
 #### Roadkil's Disk Image  [官网](http://www.roadkil.net/program.php?ProgramID=12&Action=NewOSID&DownloadVersion=12&Installer=NO)  [备份下载](https://github.com/woshizhd/software/raw/master/win/diskimage.exe)
 
-### 10.网络工具
+### 11.网络工具
 #### putty [官网](https://putty.org/) [备份下载](https://development0.baidupan.com/031921bb/2020/03/12/dc792e92afc1bf7620c8fe766dcb0049.exe?st=DrJQqGB21Pghu-8IY8QBZQ&e=1584625771&b=ASNdKAZyVSQHK1MrAjdUKAQ0&fi=18822160&up=1.)
+#### secureCRT [官网](https://www.vandyke.com/products/securecrt/)  [备份下载](https://development8.baidupan.com/031921bb/2020/03/12/7843a37ca60c4874057f03ce768d59e0.rar?st=Hsn3Q8LzHg-otuHhyd-XAw&e=1584626622&b=AgMPalQ3UyMHIFRnUENXAQkIXS8MfwBnBSQ_c&fi=18814508&up=1.)
 #### softperfect network scanner [官网](https://www.softperfect.com/products/networkscanner/)
-#### WinSCP [官网](https://winscp.net/eng/downloads.php)
+#### WinSCP [官网](https://winscp.net/eng/downloads.php)  [备份下载](https://development2.baidupan.com/031921bb/2020/03/19/f0193ab77b53e2c5a2ac46ddebaa853a.exe?st=WaH42IvM3M32Udpu0O9WUg&e=1584626713&b=BwIPZlM9A1VYTlZQCndXZgJ5XDEHMVd_aUTMMLAdTUjUCJA57AXFTeFRkX3EBNA_c_c&fi=19255342&up=1.)
 
 
 

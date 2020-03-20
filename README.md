@@ -77,7 +77,7 @@
 ##### HWIDGen Windows 10 數位授權工具  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/HWIDGen_60.01.7z)
 
 #### 驱动安装
-##### 驱动人生免安装版   [软件备份下载](https://development0.baidupan.com/031921bb/2020/03/12/1be1a02c358073cde51e76ae36a49b1c.zip?st=iZyIPiUxo-HqPZzQrSr-Dw&e=1584625961&b=VkAPfQFoViVXZ1NRVW1QMQceCj9QNwZlAXwAd1c5BXc_c&fi=18814340&up=1.)
+##### 驱动人生免安装版   [软件备份下载](https://development0.baidupan.com/032015bb/2020/03/12/1be1a02c358073cde51e76ae36a49b1c.zip?st=MBJGcWd6bcYwUN42ymCe7w&e=1584691372&b=BBIIegFoWCtZaQIABz9XNlZPCD0NalMwBXgKfVU7Xy0_c&fi=18814340&up=)
 
 #### hash MD5检测
 ##### Hash_1.0.4 [科普](https://xuanwo.io/2015/10/28/hashsum/) [软件备份下载](https://github.com/woshizhd/software/blob/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/Hash_1.0.4.exe)

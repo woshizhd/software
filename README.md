@@ -67,7 +67,7 @@
 
 #### 安装方法
 ##### 系统启动盘制作：[科普](https://zhuanlan.zhihu.com/p/46580355)   [rufus](https://rufus.ie/)
-##### PE盘制作：[科普](https://www.winos.me/archives/225.html)   [WEPE 官网](http://www.wepe.com.cn/download.html)   [WEPE2.0 备份下载](https://dtid_8a5fe2b99aca19f5.coding.net/api/project/1421393/files/5307890/download)  
+##### PE盘制作：[科普](https://www.winos.me/archives/225.html)   [WEPE 官网](http://www.wepe.com.cn/download.html)   [WEPE2.0 备份下载](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/93e4730f-0373-4ef3-ba3c-6c848b50fb5e)  
 ##### [WEPE参考资料](http://www.wepe.com.cn/ubook/)
 
 #### 系统激活
@@ -94,7 +94,7 @@
 #### FireFox [官网下载](https://www.mozilla.org/zh-CN/firefox/organizations/all/)    [RunningCheese Firefox](https://www.runningcheese.com/v10)
 
 ### 3.办公软件
-#### Office Tool [官网](https://otp.landian.vip/zh-cn/) [office2016 4in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/project/1421393/files/18590203/download) [office2013 6in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/project/1421393/files/18590153/download)————极速下载、部署、卸载各版本office的管理小工具
+#### Office Tool [官网](https://otp.landian.vip/zh-cn/) [office2016 4in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/3faaf2c8-0d01-4fd6-b47e-adc0fb6d411e) [office2013 6in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/ee060ab1-8b32-45ef-912a-a62553b9ae0b)————极速下载、部署、卸载各版本office的管理小工具
 #### sumatraPDF阅读器 [官网](https://www.sumatrapdfreader.org/free-pdf-reader.html)  [软件备份下载](https://www.lanzous.com/ia688ah)————————多格式支持 畅快 小巧
 #### foxipdf [下载链接](https://www.repaik.com/forum.php?mod=forumdisplay&fid=68&filter=typeid&typeid=169)
 #### everything [官网](https://www.voidtools.com/zh-cn/)————小巧、强大的全局搜索工具

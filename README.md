@@ -67,7 +67,7 @@
 
 #### 安装方法
 ##### 系统启动盘制作：[科普](https://zhuanlan.zhihu.com/p/46580355)   [rufus](https://rufus.ie/)
-##### PE盘制作：[科普](https://www.winos.me/archives/225.html)   [WEPE 官网](http://www.wepe.com.cn/download.html)   [WEPE2.0 备份下载](https://rn82vg.sn.files.1drv.com/y4m82Ha-F1Laxfbdn1fPxw8Y92s0NqcPpFhC_f6m32Jm2w9404a918ot5gTNZ7bYAhMMgLHVipXuakdu3RlnS068Lw0GLM-ILQ04VL77QoyldSC5xtGqTIrurvfuMaQqBzzl_39wmBoTTT2Vy0SHeA3-2hg2IhHwsqm9S-sVkHk4TztMM9AkYaVhBbEKqT2hYDrRRL2sV55Y1sFQKeJYBOhcw)  
+##### PE盘制作：[科普](https://www.winos.me/archives/225.html)   [WEPE 官网](http://www.wepe.com.cn/download.html)   [WEPE2.0 备份下载](http://coding-net-production-file-1257242599.cos.ap-shanghai.myqcloud.com/953456f0-3753-11ea-9e5a-af223f400e15.exe?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDay83lFmaS6Y4LTdzMVO1SdZOyJSNOYpr%26q-sign-time%3D1584928658%3B1584932258%26q-key-time%3D1584928658%3B1584932258%26q-header-list%3D%26q-url-param-list%3Dresponse-content-disposition%3Bresponse-expires%26q-signature%3D61b8ae3ce193553082671d122c31d45d300fb0ba&response-content-disposition=attachment%3Bfilename%3DWePE_32_V2.0.exe&response-expires=Wed%2C%2025%20Mar%202020%2013%3A57%3A38%20GMT)  
 ##### [WEPE参考资料](http://www.wepe.com.cn/ubook/)
 
 #### 系统激活

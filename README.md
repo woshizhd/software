@@ -113,7 +113,7 @@
 #### bandzip [软件官网](http://bandisoft.com/)  [软件备份下载](https://www.lanzous.com/ia687cd)————全面 好用
 #### 7-zip  [官网](https://www.7-zip.org/)————小巧、强大
 
-### 7.fuck wall
+### 7.酸酸乳
 #### ssr-shadowsocksR——[官网](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) [科普](https://lolico.moe/tutorial/shadowsocksr.html/comment-page-3)  [备份下载](https://www.lanzous.com/ia68bvg)
 #### Clash   [官网](https://github.com/Dreamacro/clash/releases) [科普](https://github.com/Hackl0us/SS-Rule-Snippet/wiki/clash(X)) [教程](http://www.xuxiaobo.com/?p=5155)  [备份教程](https://github.com/meishixiu/note/blob/master/Clash/Clash%E5%9C%A8Windows%E4%B8%8A%E7%9A%84%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E4%B8%8E%E4%BD%BF%E7%94%A8.md)
 

@@ -139,7 +139,7 @@
 #### secureCRT [官网](https://www.vandyke.com/products/securecrt/)  [备份下载](https://www.lanzous.com/ia68c7i)
 #### softperfect network scanner [官网](https://www.softperfect.com/products/networkscanner/)
 #### WinSCP [官网](https://winscp.net/eng/downloads.php)  [备份下载](https://www.lanzous.com/iafohlc)
-#### ConEmu [官网](https://conemu.github.io/) [备份下载](https://www.lanzous.com/iagqc1a)
+#### ConEmu [官网](https://conemu.github.io/) [备份下载](https://www.lanzous.com/iagqc1a) [coding-down](https://zhd088.coding.net/p/ipa/d/ipa/git/raw/master/soft/ConEmuPack.191012.7z)
 
 
 

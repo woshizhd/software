@@ -110,7 +110,7 @@
 #### 向日葵 [官网](http://sunlogin.oray.com/personal/download/)  [备份下载](https://www.lanzous.com/ia68byj)
 
 ### 6.解压软件
-#### bandzip [软件官网](http://bandisoft.com/)  [软件备份下载](https://www.lanzous.com/ia687cd)————全面 好用
+#### bandzip [软件官网](http://bandisoft.com/)  [软件备份下载](https://www.lanzous.com/ia687cd) [coding-down](https://zhd088.coding.net/api/share/download/b3088b6b-f2df-477c-8036-640d48ffd817)————全面 好用
 #### 7-zip  [官网](https://www.7-zip.org/)————小巧、强大
 
 ### 7.酸酸乳

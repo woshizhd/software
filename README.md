@@ -88,9 +88,9 @@
 ### 2.浏览器
 - Google Chrome  [官网](https://www.google.cn/chrome/) [友链](https://tools.shuax.com/chrome/#/)  [基本插件版](https://www.lanzous.com/iabax4d)
 - 插件推荐
-> [Chrome插件英雄榜](https://zhaoolee.gitbooks.io/chrome/content/)
+  > [Chrome插件英雄榜](https://zhaoolee.gitbooks.io/chrome/content/)
 
-> 插件下载：[pictureknow.com](https://pictureknow.com/extensions) [crx4chrome.com](https://www.crx4chrome.com/)
+  > 插件下载：[pictureknow.com](https://pictureknow.com/extensions) [crx4chrome.com](https://www.crx4chrome.com/)
 
   - uBlock Origin 广告屏蔽 [链接](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=chrome-ntp-icon) [备份下载](https://github.com/woshizhd/software/raw/master/win/Chrome%20extensions/uBlock%20Origin%201_21_2_0.crx)
  

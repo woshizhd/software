@@ -60,7 +60,7 @@
 ## 四. win
 > [Awesome Win](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md) 
 
->[win.gxzyzd.com](https://win.gxzyzd.com/)
+[win.gxzyzd.com](https://win.gxzyzd.com/)
 #### 1.系统安装
 - 系统来源：
   - 纯净系统： [itellyou](https://msdn.itellyou.cn/)
@@ -68,19 +68,19 @@
   - 精简系统  [win10-x86](https://github.com/woshizhd/software/releases/download/win10-x86-win/win10x86.iso)  [xp-iso](https://github.com/woshizhd/software/releases/download/xp-iso-win/WinXP_Final_20170720.iso)
 
 - 安装方法
- - 系统启动盘制作：[科普](https://zhuanlan.zhihu.com/p/46580355)   [rufus](https://rufus.ie/)
-  - PE盘制作：[科普](https://www.winos.me/archives/225.html)   [WEPE 官网](http://www.wepe.com.cn/download.html)   [WEPE2.0 备份下载](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/93e4730f-0373-4ef3-ba3c-6c848b50fb5e)  
+    - 系统启动盘制作：[科普](https://zhuanlan.zhihu.com/p/46580355)   [rufus](https://rufus.ie/)
+    - PE盘制作：[科普](https://www.winos.me/archives/225.html)   [WEPE 官网](http://www.wepe.com.cn/download.html)   [WEPE2.0 备份下载](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/93e4730f-0373-4ef3-ba3c-6c848b50fb5e)  
  > [WEPE参考资料](http://www.wepe.com.cn/ubook/)
 
 - 系统激活
- - 暴风激活  [官网](http://www.baofengjihuo.com/)  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/%E6%9A%B4%E9%A3%8E%E6%BF%80%E6%B4%BBV17.0.zip)
-  - HEU_KMS_Activator [官网](https://github.com/zbezj/HEU_KMS_Activator) 
-  - KMS [v0v.bid](https://v0v.bid/)  [备份下载](https://www.lanzous.com/ia65x2b)  [kms.cangshui.net](https://kms.cangshui.net/)  [备份下载2](https://www.lanzous.com/ia65x1a)
+   - 暴风激活  [官网](http://www.baofengjihuo.com/)  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/%E6%9A%B4%E9%A3%8E%E6%BF%80%E6%B4%BBV17.0.zip)
+   - HEU_KMS_Activator [官网](https://github.com/zbezj/HEU_KMS_Activator) 
+   - KMS [v0v.bid](https://v0v.bid/)  [备份下载](https://www.lanzous.com/ia65x2b)  [kms.cangshui.net](https://kms.cangshui.net/)  [备份下载2](https://www.lanzous.com/ia65x1a)
  
-  - HWIDGen Windows 10 數位授權工具  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/HWIDGen_60.01.7z)
+   - HWIDGen Windows 10 數位授權工具  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/HWIDGen_60.01.7z)
 
 - 驱动安装
- 驱动人生免安装版   [软件备份下载](https://www.lanzous.com/ia687ja)
+  驱动人生免安装版   [软件备份下载](https://www.lanzous.com/ia687ja)
 
 - hash MD5检测
  Hash_1.0.4 [科普](https://xuanwo.io/2015/10/28/hashsum/) [软件备份下载](https://github.com/woshizhd/software/blob/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/Hash_1.0.4.exe)
@@ -92,15 +92,14 @@
 
 > 插件下载：[pictureknow.com](https://pictureknow.com/extensions) [crx4chrome.com](https://www.crx4chrome.com/)
 
- uBlock Origin 广告屏蔽 [链接](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=chrome-ntp-icon) [备份下载](https://github.com/woshizhd/software/raw/master/win/Chrome%20extensions/uBlock%20Origin%201_21_2_0.crx)
+  - uBlock Origin 广告屏蔽 [链接](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=chrome-ntp-icon) [备份下载](https://github.com/woshizhd/software/raw/master/win/Chrome%20extensions/uBlock%20Origin%201_21_2_0.crx)
  
- skyZIP 谷歌上网助手 [链接](https://chrome.google.com/webstore/detail/skyzip-proxy/hbgknjagaclofapkgkeapamhmglnbphi?utm_source=chrome-app-launcher-info-dialog) [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/skyZIP%E2%84%A2-Proxy_v0.8.3.crx)
+  - skyZIP 谷歌上网助手 [链接](https://chrome.google.com/webstore/detail/skyzip-proxy/hbgknjagaclofapkgkeapamhmglnbphi?utm_source=chrome-app-launcher-info-dialog) [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/skyZIP%E2%84%A2-Proxy_v0.8.3.crx)
 
- 油猴 Tampermonkey 脚本插件 [链接](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-app-launcher-info-dialog)  [科普](https://juejin.im/post/5a538aa9518825732e2f2849)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Tampermonkey_v4.5.crx) [Backup](https://www.lanzous.com/ialv4pg)
+  - 油猴 Tampermonkey 脚本插件 [链接](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-app-launcher-info-dialog)  [科普](https://juejin.im/post/5a538aa9518825732e2f2849)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Tampermonkey_v4.5.crx) [Backup](https://www.lanzous.com/ialv4pg)
 
- Dream-Afar标签美化   [科普](https://sspai.com/post/41439) [链接](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn?utm_source=chrome-app-launcher-info-dialog)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Dream-Afar-New-Tab_v0.3.12.crx)
-
- -FireFox [官网下载](https://www.mozilla.org/zh-CN/firefox/organizations/all/)    [RunningCheese Firefox](https://www.runningcheese.com/v10)
+  - Dream-Afar标签美化   [科普](https://sspai.com/post/41439) [链接](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn?utm_source=chrome-app-launcher-info-dialog)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Dream-Afar-New-Tab_v0.3.12.crx)
+- FireFox [官网下载](https://www.mozilla.org/zh-CN/firefox/organizations/all/)    [RunningCheese Firefox](https://www.runningcheese.com/v10)
 
 #### 3.办公软件
 - Office Tool [官网](https://otp.landian.vip/zh-cn/) [office2016 4in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/3faaf2c8-0d01-4fd6-b47e-adc0fb6d411e) [office2013 6in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/ee060ab1-8b32-45ef-912a-a62553b9ae0b)————极速下载、部署、卸载各版本office的管理小工具

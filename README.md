@@ -58,29 +58,26 @@
 
 
 ## 四. win
-> [Awesome Win](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)  [win.gxzyzd.com](https://win.gxzyzd.com/)
+> [Awesome Win](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md) 
+
+>[win.gxzyzd.com](https://win.gxzyzd.com/)
 #### 1.系统安装
 - 系统来源：
- 纯净系统： [itellyou](https://msdn.itellyou.cn/)
- 
- 优化系统： [专注于 win10](http://iwin10.net/)
- 
- 精简系统  [win10-x86](https://github.com/woshizhd/software/releases/download/win10-x86-win/win10x86.iso)  [xp-iso](https://github.com/woshizhd/software/releases/download/xp-iso-win/WinXP_Final_20170720.iso)
+  - 纯净系统： [itellyou](https://msdn.itellyou.cn/)
+  - 优化系统： [专注于 win10](http://iwin10.net/)
+  - 精简系统  [win10-x86](https://github.com/woshizhd/software/releases/download/win10-x86-win/win10x86.iso)  [xp-iso](https://github.com/woshizhd/software/releases/download/xp-iso-win/WinXP_Final_20170720.iso)
 
 - 安装方法
- 系统启动盘制作：[科普](https://zhuanlan.zhihu.com/p/46580355)   [rufus](https://rufus.ie/)
- 
- PE盘制作：[科普](https://www.winos.me/archives/225.html)   [WEPE 官网](http://www.wepe.com.cn/download.html)   [WEPE2.0 备份下载](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/93e4730f-0373-4ef3-ba3c-6c848b50fb5e)  
- 
+ - 系统启动盘制作：[科普](https://zhuanlan.zhihu.com/p/46580355)   [rufus](https://rufus.ie/)
+  - PE盘制作：[科普](https://www.winos.me/archives/225.html)   [WEPE 官网](http://www.wepe.com.cn/download.html)   [WEPE2.0 备份下载](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/93e4730f-0373-4ef3-ba3c-6c848b50fb5e)  
  > [WEPE参考资料](http://www.wepe.com.cn/ubook/)
 
 - 系统激活
- 暴风激活  [官网](http://www.baofengjihuo.com/)  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/%E6%9A%B4%E9%A3%8E%E6%BF%80%E6%B4%BBV17.0.zip)
+ - 暴风激活  [官网](http://www.baofengjihuo.com/)  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/%E6%9A%B4%E9%A3%8E%E6%BF%80%E6%B4%BBV17.0.zip)
+  - HEU_KMS_Activator [官网](https://github.com/zbezj/HEU_KMS_Activator) 
+  - KMS [v0v.bid](https://v0v.bid/)  [备份下载](https://www.lanzous.com/ia65x2b)  [kms.cangshui.net](https://kms.cangshui.net/)  [备份下载2](https://www.lanzous.com/ia65x1a)
  
- HEU_KMS_Activator [官网](https://github.com/zbezj/HEU_KMS_Activator) 
- KMS [v0v.bid](https://v0v.bid/)  [备份下载](https://www.lanzous.com/ia65x2b)  [kms.cangshui.net](https://kms.cangshui.net/)  [备份下载2](https://www.lanzous.com/ia65x1a)
- 
- HWIDGen Windows 10 數位授權工具  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/HWIDGen_60.01.7z)
+  - HWIDGen Windows 10 數位授權工具  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/HWIDGen_60.01.7z)
 
 - 驱动安装
  驱动人生免安装版   [软件备份下载](https://www.lanzous.com/ia687ja)

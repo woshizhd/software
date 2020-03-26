@@ -22,7 +22,8 @@
 - Star VPN(美区) [appstore链接](https://itunes.apple.com/us/app/star-vpn-unlimited-vpn-proxy/id1115864690?mt=8)  VPN 360(美区) [appstore链接](https://itunes.apple.com/us/app/vpn-360-unlimited-vpn-proxy/id1193154948?mt=8)  Potatso Lite(美区) [appstore链接](https://itunes.apple.com/us/app/potatso-lite/id1239860606?mt=8)
 - 捷径（原workflow）[科普](https://www.wenlc.com/weixin/20180921A1FLXQ00.html)   [appstore链接](https://itunes.apple.com/cn/app/%E6%8D%B7%E5%BE%84/id915249334?mt=8) [社区](https://sharecuts.cn/)
 - Pin [科普](https://www.wenlc.com/weixin/20180426A192I300.html)   [appstore链接](https://itunes.apple.com/cn/app/pin-%E5%89%AA%E8%B4%B4%E6%9D%BF%E6%89%A9%E5%B1%95/id1039643846?mt=8)
-#### 3.第三方软件库 i4助手 [官网](https://www.i4.cn/)
+#### 3.第三方软件库 
+- i4助手 [官网](https://www.i4.cn/)
 #### 4.酸酸乳
 - Shadowrocket    [appstore链接](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)  [分享账号](https://www.gxzyzd.com/)  [ipa下载](https://github.com/woshizhd/software/raw/master/ios/Shadowrocket_2.1.23.ipa)
 
@@ -97,10 +98,11 @@
   - Dream-Afar标签美化   [科普](https://sspai.com/post/41439) [链接](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn?utm_source=chrome-app-launcher-info-dialog)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Dream-Afar-New-Tab_v0.3.12.crx)
 - FireFox [官网下载](https://www.mozilla.org/zh-CN/firefox/organizations/all/)    [RunningCheese Firefox](https://www.runningcheese.com/v10)
 
-#### 3.办公软件
+#### 3.文档软件
 - Office Tool [官网](https://otp.landian.vip/zh-cn/) [office2016 4in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/3faaf2c8-0d01-4fd6-b47e-adc0fb6d411e) [office2013 6in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/ee060ab1-8b32-45ef-912a-a62553b9ae0b)————极速下载、部署、卸载各版本office的管理小工具
 - sumatraPDF阅读器 [官网](https://www.sumatrapdfreader.org/free-pdf-reader.html)  [软件备份下载](https://www.lanzous.com/ia688ah)————————多格式支持 畅快 小巧
 - foxipdf [下载链接](https://www.repaik.com/forum.php?mod=forumdisplay&fid=68&filter=typeid&typeid=169)
+- Notepad++  [官网](https://notepad-plus-plus.org/)  [软件备份下载](https://www.lanzous.com/iafonxa)————轻便 强大
 - everything [官网](https://www.voidtools.com/zh-cn/)————小巧、强大的全局搜索工具
 
 #### 4.视频软件
@@ -127,9 +129,8 @@
 
 #### 9.工具类
 - Dism ++    [官网](https://www.chuyu.me/zh-Hant/)  ————轻便 强大的windows 管理工具
-- Notepad++  [官网](https://notepad-plus-plus.org/)  [软件备份下载](https://www.lanzous.com/iafonxa)————轻便 强大
 - 卡硬工具箱 [官网](http://www.kbtool.cn/)————集百家之长，掌握主机的每个角落
-  h2testw_1.4 [下载](https://github.com/woshizhd/software/raw/master/win/h2testw_1.4.exe)————短小精悍的扩容盘检测工具
+-  h2testw_1.4 [下载](https://github.com/woshizhd/software/raw/master/win/h2testw_1.4.exe)————短小精悍的扩容盘检测工具
 -  MyDiskTest-2.98  [下载](https://github.com/woshizhd/software/raw/master/win/MyDiskTest_v298.exe)————小巧的U盘检测工具
 - 分流抢火车票 [官网](https://www.12306bypass.com/)————小巧 强大
 
@@ -145,7 +146,7 @@
 
 
 
-## _歡迎star_
+## _歡迎 star_
 
 ![software.png](https://i.loli.net/2018/04/11/5ace1407054c0.png)
 

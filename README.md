@@ -1,5 +1,5 @@
 # software
-## __自己常用的軟件集合，个人偏好绿色软件，“软件备份下载”多为其压缩包__
+#### __自己常用的軟件集合，个人偏好绿色软件，“软件备份下载”多为其压缩包__
 ***
 ## 目录
 * [一. android](#一-android)
@@ -18,17 +18,13 @@
 
 ## 二. ios
 #### 1.APPSTORE 外区账号注册 [科普](https://zhuanlan.zhihu.com/p/41569923)
-
 #### 2.推荐应用
 - Star VPN(美区) [appstore链接](https://itunes.apple.com/us/app/star-vpn-unlimited-vpn-proxy/id1115864690?mt=8)  VPN 360(美区) [appstore链接](https://itunes.apple.com/us/app/vpn-360-unlimited-vpn-proxy/id1193154948?mt=8)  Potatso Lite(美区) [appstore链接](https://itunes.apple.com/us/app/potatso-lite/id1239860606?mt=8)
-
 - 捷径（原workflow）[科普](https://www.wenlc.com/weixin/20180921A1FLXQ00.html)   [appstore链接](https://itunes.apple.com/cn/app/%E6%8D%B7%E5%BE%84/id915249334?mt=8) [社区](https://sharecuts.cn/)
 - Pin [科普](https://www.wenlc.com/weixin/20180426A192I300.html)   [appstore链接](https://itunes.apple.com/cn/app/pin-%E5%89%AA%E8%B4%B4%E6%9D%BF%E6%89%A9%E5%B1%95/id1039643846?mt=8)
 #### 3.第三方软件库 i4助手 [官网](https://www.i4.cn/)
 #### 4.酸酸乳
 - Shadowrocket    [appstore链接](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)  [分享账号](https://www.gxzyzd.com/)  [ipa下载](https://github.com/woshizhd/software/raw/master/ios/Shadowrocket_2.1.23.ipa)
-
-
 
 ## 三. osx
 > [Awesome Mac](https://wangchujiang.com/awesome-mac/index.zh.html#totop)
@@ -60,7 +56,7 @@
 ## 四. win
 > [Awesome Win](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md) 
 
-[win.gxzyzd.com](https://win.gxzyzd.com/)
+>[win.gxzyzd.com](https://win.gxzyzd.com/)
 #### 1.系统安装
 - 系统来源：
   - 纯净系统： [itellyou](https://msdn.itellyou.cn/)
@@ -80,10 +76,10 @@
    - HWIDGen Windows 10 數位授權工具  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/HWIDGen_60.01.7z)
 
 - 驱动安装
-  驱动人生免安装版   [软件备份下载](https://www.lanzous.com/ia687ja)
+    - 驱动人生免安装版   [软件备份下载](https://www.lanzous.com/ia687ja)
 
 - hash MD5检测
- Hash_1.0.4 [科普](https://xuanwo.io/2015/10/28/hashsum/) [软件备份下载](https://github.com/woshizhd/software/blob/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/Hash_1.0.4.exe)
+  - Hash_1.0.4 [科普](https://xuanwo.io/2015/10/28/hashsum/) [软件备份下载](https://github.com/woshizhd/software/blob/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/Hash_1.0.4.exe)
 
 ### 2.浏览器
 - Google Chrome  [官网](https://www.google.cn/chrome/) [友链](https://tools.shuax.com/chrome/#/)  [基本插件版](https://www.lanzous.com/iabax4d)

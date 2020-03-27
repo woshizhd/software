@@ -30,7 +30,7 @@
 ## 三. osx
 > [Awesome Mac](https://wangchujiang.com/awesome-mac/index.zh.html#totop)
 
-> **homebrew** [官网](https://brew.sh/) [软件包demo](https://formulae.brew.sh/cask/)————macOS强大的包管理器！
+> **homebrew** [官网](https://brew.sh/) [少数派指北](https://sspai.com/post/56009) [王奥指南](https://wsgzao.github.io/post/homebrew/) [软件包demo](https://formulae.brew.sh/cask/)————macOS强大的包管理器！
 - 常用软件：brew cask install alfred android-platform-tools clashx fliqlo google-chrome iina qq squirrel sublime-txt telegram-desktop the-unarchiver vmware-fusion 
 #### 1.效率
 - alfred [官网](https://www.alfredapp.com/) [入门指南](https://juejin.im/post/5e4174406fb9a07cb96adec1)————比Spotlight更强的快速启动应用，大大提升你的工作效率！

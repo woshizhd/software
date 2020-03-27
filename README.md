@@ -58,6 +58,8 @@
 > [Awesome Win](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md) 
 
 >[win.gxzyzd.com](https://win.gxzyzd.com/)
+
+> scoop [官网](https://scoop.sh/) [安装教程](https://github.com/neolee/pilot/blob/master/x1-setup.md) [FAQ](https://github.com/neolee/pilot/blob/master/x1-setup.md)
 #### 1.系统安装
 - 系统来源：
   - 纯净系统： [itellyou](https://msdn.itellyou.cn/)
@@ -99,11 +101,12 @@
 - FireFox [官网下载](https://www.mozilla.org/zh-CN/firefox/organizations/all/)    [RunningCheese Firefox](https://www.runningcheese.com/v10)
 
 #### 3.文档软件
+- **Listary** [官网](https://www.listarypro.com) [官方使用帮助](https://www.listarypro.com/docs)————强大的文件搜索、强大的快捷启动、Windows提升效率必备！
 - Office Tool [官网](https://otp.landian.vip/zh-cn/) [office2016 4in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/3faaf2c8-0d01-4fd6-b47e-adc0fb6d411e) [office2013 6in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/ee060ab1-8b32-45ef-912a-a62553b9ae0b)————极速下载、部署、卸载各版本office的管理小工具
 - sumatraPDF阅读器 [官网](https://www.sumatrapdfreader.org/free-pdf-reader.html)  [软件备份下载](https://www.lanzous.com/ia688ah)————————多格式支持 畅快 小巧
 - foxipdf [下载链接](https://www.repaik.com/forum.php?mod=forumdisplay&fid=68&filter=typeid&typeid=169)
 - Notepad++  [官网](https://notepad-plus-plus.org/)  [软件备份下载](https://www.lanzous.com/iafonxa)————轻便 强大
-- everything [官网](https://www.voidtools.com/zh-cn/)————小巧、强大的全局搜索工具
+
 
 #### 4.视频软件
 - 观看软件：popcorn time  [软件官网](https://www.popcorn-time.to/)

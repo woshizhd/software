@@ -29,6 +29,9 @@
 
 ## 三. osx
 > [Awesome Mac](https://wangchujiang.com/awesome-mac/index.zh.html#totop)
+
+> **homebrew** [官网](https://brew.sh/) [软件包demo](https://formulae.brew.sh/cask/)————macOS强大的包管理器
+- 常用软件：brew cask install alfred android-platform-tools clashx fliqlo google-chrome iina qq squirrel sublime-txt telegram-desktop the-unarchiver vmware-fusion 
 #### 1.虚拟机
 - ParallelsDesktop [官网](https://www.parallels.cn/)  [13.2.0 备份下载](https://github.com/woshizhd/software/releases/download/ParallelsDesktop13.2.0%E7%A0%B4%E8%A7%A3%E7%89%88%EF%BC%8Dmac/ParallelsDesktop13.2.0.dmg)
 
@@ -59,7 +62,15 @@
 
 >[win.gxzyzd.com](https://win.gxzyzd.com/)
 
-> scoop [官网](https://scoop.sh/) [安装教程](https://github.com/neolee/pilot/blob/master/x1-setup.md) [FAQ](https://github.com/neolee/pilot/blob/master/x1-setup.md)
+> **scoop** [官网](https://scoop.sh/) [安装教程](https://github.com/neolee/pilot/blob/master/x1-setup.md) [FAQ](https://github.com/neolee/pilot/blob/master/x1-setup.md)————Windows平台下方便好用的包管理器
+- 开局配置
+    - scoop install git aria2
+    - scoop bucket add extras
+    - scoop bucket add h404bi_dorado https://github.com/h404bi/dorado
+    - scoop bucket add dajiu https://github.com/dajiiu/dajiu-scoop
+    - scoop bucket add versions
+- 常用软件
+    - scoop install listary flux sumatrapdf officetoolplus wechat dingtalk notepadplusplus python putty
 #### 1.系统安装
 - 系统来源：
   - 纯净系统： [itellyou](https://msdn.itellyou.cn/)

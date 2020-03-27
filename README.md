@@ -34,6 +34,7 @@
 - 常用软件：brew cask install alfred android-platform-tools clashx fliqlo google-chrome iina qq squirrel sublime-txt telegram-desktop the-unarchiver vmware-fusion 
 #### 1.效率
 - alfred [官网](https://www.alfredapp.com/) [入门指南](https://juejin.im/post/5e4174406fb9a07cb96adec1)————比Spotlight更强的快速启动应用，大大提升你的工作效率！
+- AutoSwitchInput [AppStore链接](https://apps.apple.com/cn/app/%E8%87%AA%E5%8A%A8%E5%88%87%E6%8D%A2%E8%BE%93%E5%85%A5%E6%B3%95/id1470350547)————为应用单独设置默认输入法
 - ParallelsDesktop [官网](https://www.parallels.cn/)  [13.2.0 备份下载](https://github.com/woshizhd/software/releases/download/ParallelsDesktop13.2.0%E7%A0%B4%E8%A7%A3%E7%89%88%EF%BC%8Dmac/ParallelsDesktop13.2.0.dmg)
 - vmware-fusion [官网](https://www.vmware.com/products/fusion/fusion-evaluation.html)————很多人夸ParallelsDesktop，我却喜欢VM
 

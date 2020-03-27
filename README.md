@@ -30,21 +30,23 @@
 ## 三. osx
 > [Awesome Mac](https://wangchujiang.com/awesome-mac/index.zh.html#totop)
 
-> **homebrew** [官网](https://brew.sh/) [软件包demo](https://formulae.brew.sh/cask/)————macOS强大的包管理器
+> **homebrew** [官网](https://brew.sh/) [软件包demo](https://formulae.brew.sh/cask/)————macOS强大的包管理器！
 - 常用软件：brew cask install alfred android-platform-tools clashx fliqlo google-chrome iina qq squirrel sublime-txt telegram-desktop the-unarchiver vmware-fusion 
-#### 1.虚拟机
+#### 1.效率
+- alfred [官网](https://www.alfredapp.com/) [入门指南](https://juejin.im/post/5e4174406fb9a07cb96adec1)————比Spotlight更强的快速启动应用，大大提升你的工作效率！
 - ParallelsDesktop [官网](https://www.parallels.cn/)  [13.2.0 备份下载](https://github.com/woshizhd/software/releases/download/ParallelsDesktop13.2.0%E7%A0%B4%E8%A7%A3%E7%89%88%EF%BC%8Dmac/ParallelsDesktop13.2.0.dmg)
+- vmware-fusion [官网](https://www.vmware.com/products/fusion/fusion-evaluation.html)————很多人夸ParallelsDesktop，我却喜欢VM
 
 #### 2.视频播放
-- IINA. [官网](https://lhc70000.github.io/iina/zh-cn/)   [v0.0.15 软件备份下载](https://github.com/woshizhd/software/releases/download/IINA-mac/IINA.v0.0.15-build68.dmg)
-- MPlayerX [官网](http://mplayerx.org/)  [软件备份下载](https://github.com/woshizhd/software/releases/download/MPlayerX_1.1.4%EF%BC%8Dmac/MPlayerX_1.1.4.zip)
+- IINA. [官网](https://lhc70000.github.io/iina/zh-cn/)   [v0.0.15 备份下载](https://github.com/woshizhd/software/releases/download/IINA-mac/IINA.v0.0.15-build68.dmg)
+- MPlayerX [官网](http://mplayerx.org/)  [备份下载](https://github.com/woshizhd/software/releases/download/MPlayerX_1.1.4%EF%BC%8Dmac/MPlayerX_1.1.4.zip)
 
 #### 3.清理工具 
 - cleanmymac  [官网](https://macpaw.com/cleanmymac) [3.9 备份下载](https://github.com/woshizhd/software/blob/master/osx/cleanmymac.zip)
 
 #### 4.解压软件
 - eZip [官网](https://ezip.awehunt.com/)————专为 macos 设计的压缩软件
-- The Unarchiver [官网](https://theunarchiver.com/)
+- The Unarchiver [官网](https://theunarchiver.com/)————简单好用
 
 #### 5.下载工具
 - Aria2 [官网](https://aria2.github.io/)  [教程](https://yalv.me/aria2/)

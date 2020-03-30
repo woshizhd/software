@@ -9,9 +9,16 @@
 * [](#)
 
 ## 一. android
-#### 1. 刷机 [科普](https://sspai.com/post/54763?from=weibo)
-- adb工具 [科普及下载](http://www.miui.com/thread-12249084-1-1.html)
-- 手機型號匹配recovery+手机型号匹配系统下载网站推荐 [ROM之家](http://romzj.com/)  [移动叔叔论坛](http://bbs.ydss.cn/)  [紫火论坛](http://bbs.zhwlgzs.com/)
+#### 1. 刷机 [科普](https://sspai.com/post/54763?from=weibo) [安卓系统分区](https://www.jianshu.com/p/d960a6f517d8)
+- 刷机步骤（卡刷）
+    1. 解锁 Bootloader ———— 具体到你的手机型号
+    2. 刷入第三方 Recovery ———— 推荐 [TWRP](https://twrp.me/)
+    3. 借助 Recovery 刷入Android 系统 ROM ———— 具体到你的手机型号。推荐 ROM 下载站：[XDA](https://forum.xda-developers.com/) [getdroidtips](https://www.getdroidtips.com/) [魔趣ROM](https://www.mokeedev.com/) [Android Sage](https://www.androidsage.com/) [Pixel Experience](https://download.pixelexperience.org/) [LineageOS](https://download.lineageos.org/) [ROM乐园](http://www.romleyuan.com/)
+- 其它所需工具
+    - adb工具 [科普及下载](http://www.miui.com/thread-12249084-1-1.html)
+- [救砖参考](https://www.jianshu.com/p/445a4ec8cbbd)
+    
+
 #### 2. 应用市场： Google play   [Apkpure](https://apkpure.com/cn/)   [酷安市場](https://www.coolapk.com/apk/com.coolapk.market?from=navbar)
 #### 3. 酸酸乳
 - shadowsocksr-android     [官网](https://github.com/shadowsocksrr/shadowsocksr-android/releases)

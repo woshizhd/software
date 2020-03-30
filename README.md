@@ -65,7 +65,7 @@
 
 >[win.gxzyzd.com](https://win.gxzyzd.com/)
 
-> **scoop** [官网](https://scoop.sh/) [安装教程](https://github.com/neolee/pilot/blob/master/x1-setup.md) [FAQ](https://github.com/neolee/pilot/blob/master/x1-setup.md)————Windows平台下方便好用的包管理器
+> **scoop** [官网](https://scoop.sh/) [安装教程](https://github.com/neolee/pilot/blob/master/x1-setup.md) [FAQ](https://github.com/neolee/pilot/wiki)————Windows平台下方便好用的包管理器
 - 开局配置
     - scoop install git aria2
     - scoop bucket add extras

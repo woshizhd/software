@@ -101,6 +101,7 @@
 
 - 硬件检测
     - 驱动人生免安装版   [软件备份下载](https://www.lanzous.com/ia687ja)
+    - AIDA64 [官网](https://www.aida64.com/downloads)
     - CrystalDiskInfo [官网](https://crystalmark.info/en/download/) [备份下载](https://zhd088.coding.net/api/share/download/39dc5e5d-0d99-412e-8527-b04c22af1741)————萌萌的硬盘健康信息查看
     - CrystalDiskMark [官网](https://crystalmark.info/en/download/) [备份下载](https://zhd088.coding.net/api/share/download/1c92ab71-9fa1-4c9a-b0cf-fde3300327c6)————萌萌的硬盘跑分
     -  h2testw_1.4 [下载](https://github.com/woshizhd/software/raw/master/win/h2testw_1.4.exe)————短小精悍的扩容盘检测工具

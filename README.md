@@ -99,8 +99,12 @@
  
    - HWIDGen Windows 10 數位授權工具  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/HWIDGen_60.01.7z)
 
-- 驱动安装
+- 硬件检测
     - 驱动人生免安装版   [软件备份下载](https://www.lanzous.com/ia687ja)
+    - CrystalDiskInfo [官网](https://crystalmark.info/en/download/) [备份下载](https://zhd088.coding.net/api/share/download/39dc5e5d-0d99-412e-8527-b04c22af1741)————萌萌的硬盘健康信息查看
+    - CrystalDiskMark [官网](https://crystalmark.info/en/download/) [备份下载](https://zhd088.coding.net/api/share/download/1c92ab71-9fa1-4c9a-b0cf-fde3300327c6)————萌萌的硬盘跑分
+    -  h2testw_1.4 [下载](https://github.com/woshizhd/software/raw/master/win/h2testw_1.4.exe)————短小精悍的扩容盘检测工具
+    - MyDiskTest-2.98  [下载](https://github.com/woshizhd/software/raw/master/win/MyDiskTest_v298.exe)————小巧的U盘检测工具
 
 - hash MD5检测
   - Hash_1.0.4 [科普](https://xuanwo.io/2015/10/28/hashsum/) [软件备份下载](https://github.com/woshizhd/software/blob/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/Hash_1.0.4.exe)
@@ -154,8 +158,6 @@
 #### 9.工具类
 - Dism ++    [官网](https://www.chuyu.me/zh-Hant/)  ————轻便 强大的windows 管理工具
 - 卡硬工具箱 [官网](http://www.kbtool.cn/)————集百家之长，掌握主机的每个角落
--  h2testw_1.4 [下载](https://github.com/woshizhd/software/raw/master/win/h2testw_1.4.exe)————短小精悍的扩容盘检测工具
--  MyDiskTest-2.98  [下载](https://github.com/woshizhd/software/raw/master/win/MyDiskTest_v298.exe)————小巧的U盘检测工具
 - 分流抢火车票 [官网](https://www.12306bypass.com/)————小巧 强大
 
 #### 10.软路由

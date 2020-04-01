@@ -102,6 +102,7 @@
 - 硬件检测
     - 驱动人生免安装版   [软件备份下载](https://www.lanzous.com/ia687ja)
     - AIDA64 [官网](https://www.aida64.com/downloads)
+    - cpuz [官网](https://www.cpuid.com/softwares/cpu-z.html) [备份下载](https://zhd088.coding.net/api/share/download/7a26cdfa-3c29-4cb4-83de-0eb4a274c6df)
     - CrystalDiskInfo [官网](https://crystalmark.info/en/download/) [备份下载](https://zhd088.coding.net/api/share/download/39dc5e5d-0d99-412e-8527-b04c22af1741)————萌萌的硬盘健康信息查看
     - CrystalDiskMark [官网](https://crystalmark.info/en/download/) [备份下载](https://zhd088.coding.net/api/share/download/1c92ab71-9fa1-4c9a-b0cf-fde3300327c6)————萌萌的硬盘跑分
     -  h2testw_1.4 [下载](https://github.com/woshizhd/software/raw/master/win/h2testw_1.4.exe)————短小精悍的扩容盘检测工具
@@ -158,6 +159,7 @@
 
 #### 9.工具类
 - Dism ++    [官网](https://www.chuyu.me/zh-Hant/)  ————轻便 强大的windows 管理工具
+- geekuninstaller [官网](https://geekuninstaller.com/) [备份下载](https://zhd088.coding.net/api/share/download/2ea091c1-2266-4577-8ed8-3338e3db642f)————不仅仅是卸载，还帮助清理残留文件
 - 卡硬工具箱 [官网](http://www.kbtool.cn/)————集百家之长，掌握主机的每个角落
 - 分流抢火车票 [官网](https://www.12306bypass.com/)————小巧 强大
 

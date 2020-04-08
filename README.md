@@ -101,7 +101,7 @@
 
 - 硬件检测
     - 驱动人生免安装版   [软件备份下载](https://www.lanzous.com/ia687ja)
-    - AIDA64 [官网](https://www.aida64.com/downloads)
+    - AIDA64 [官网](https://www.aida64.com/downloads) [备份下载](https://zhd088.coding.net/api/share/download/c689afff-166b-4bfb-9c27-815beedcabe0)
     - cpuz [官网](https://www.cpuid.com/softwares/cpu-z.html) [备份下载](https://zhd088.coding.net/api/share/download/7a26cdfa-3c29-4cb4-83de-0eb4a274c6df)
     - CrystalDiskInfo [官网](https://crystalmark.info/en/download/) [备份下载](https://zhd088.coding.net/api/share/download/39dc5e5d-0d99-412e-8527-b04c22af1741)————萌萌的硬盘健康信息查看
     - CrystalDiskMark [官网](https://crystalmark.info/en/download/) [备份下载](https://zhd088.coding.net/api/share/download/1c92ab71-9fa1-4c9a-b0cf-fde3300327c6)————萌萌的硬盘跑分
@@ -128,10 +128,10 @@
 - FireFox [官网下载](https://www.mozilla.org/zh-CN/firefox/organizations/all/)    [RunningCheese Firefox](https://www.runningcheese.com/v10)
 
 #### 3.文档软件
-- **Listary** [官网](https://www.listarypro.com) [官方使用帮助](https://www.listarypro.com/docs)————强大的文件搜索、强大的快捷启动、Windows提升效率必备！
+- **Listary** [官网](https://www.listarypro.com) [官方使用帮助](https://www.listarypro.com/docs) [备份下载](https://zhd088.coding.net/api/share/download/b5adb9d3-7227-46b3-8672-96a31a7c8e63)————强大的文件搜索、强大的快捷启动、Windows提升效率必备！
 - Office Tool [官网](https://otp.landian.vip/zh-cn/) [office2016 4in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/3faaf2c8-0d01-4fd6-b47e-adc0fb6d411e) [office2013 6in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/ee060ab1-8b32-45ef-912a-a62553b9ae0b)————极速下载、部署、卸载各版本office的管理小工具
 - sumatraPDF阅读器 [官网](https://www.sumatrapdfreader.org/free-pdf-reader.html)  [软件备份下载](https://www.lanzous.com/ia688ah)————————多格式支持 畅快 小巧
-- foxipdf [下载链接](https://www.repaik.com/forum.php?mod=forumdisplay&fid=68&filter=typeid&typeid=169)
+- foxipdf [官网](https://www.foxitsoftware.cn/) [下载链接](https://www.repaik.com/forum.php?mod=forumdisplay&fid=68&filter=typeid&typeid=169)
 - Notepad++  [官网](https://notepad-plus-plus.org/)  [软件备份下载](https://www.lanzous.com/iafonxa)————轻便 强大
 
 
@@ -146,7 +146,7 @@
 
 #### 6.解压软件
 - bandzip [软件官网](http://bandisoft.com/)  [软件备份下载](https://www.lanzous.com/ia687cd) [coding-down](https://zhd088.coding.net/api/share/download/b3088b6b-f2df-477c-8036-640d48ffd817)————全面 好用
-- 7-zip  [官网](https://www.7-zip.org/)————小巧、强大
+- 7-zip  [官网](https://www.7-zip.org/) [备份下载](https://zhd088.coding.net/api/share/download/7ae174fb-7fa2-4fee-b4fe-d8ebb96d5037)————小巧、强大
 
 #### 7.酸酸乳
 - ssr-shadowsocksR——[官网](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) [科普](https://lolico.moe/tutorial/shadowsocksr.html/comment-page-3)  [备份下载](https://www.lanzous.com/ia68bvg)
@@ -158,7 +158,7 @@
 - 迅雷 [备份下载](https://github.com/woshizhd/software/raw/master/win/%E8%BF%85%E9%9B%B7%E6%9E%81%E9%80%9F%E7%89%88%20v1.0.35.366.rar)————哎，作死的迅雷，暂时能用的版本……
 
 #### 9.工具类
-- Dism ++    [官网](https://www.chuyu.me/zh-Hant/)  ————轻便 强大的windows 管理工具
+- Dism ++    [官网](https://www.chuyu.me/zh-Hant/) [备份下载](https://zhd088.coding.net/api/share/download/5382ea61-9a92-4dd7-9007-7cfdd248102f) ————轻便 强大的windows 管理工具
 - geekuninstaller [官网](https://geekuninstaller.com/) [备份下载](https://zhd088.coding.net/api/share/download/2ea091c1-2266-4577-8ed8-3338e3db642f)————不仅仅是卸载，还帮助清理残留文件
 - 卡硬工具箱 [官网](http://www.kbtool.cn/)————集百家之长，掌握主机的每个角落
 - 分流抢火车票 [官网](https://www.12306bypass.com/)————小巧 强大
@@ -169,7 +169,7 @@
 #### 11.网络工具
 - putty [官网](https://putty.org/) [备份下载](https://www.lanzous.com/ia6e8ra)
 - secureCRT [官网](https://www.vandyke.com/products/securecrt/)  [备份下载](https://www.lanzous.com/ia68c7i)
-- softperfect network scanner [官网](https://www.softperfect.com/products/networkscanner/)
+- softperfect network scanner [官网](https://www.softperfect.com/products/networkscanner/) [备份下载](https://zhd088.coding.net/api/share/download/0d4446a1-fabf-407b-97ed-cdd80fcdc72f)
 - WinSCP [官网](https://winscp.net/eng/downloads.php)  [备份下载](https://www.lanzous.com/iafohlc)
 - ConEmu [官网](https://conemu.github.io/) [备份下载](https://www.lanzous.com/iagqc1a) [coding-down](https://zhd088.coding.net/p/ipa/d/ipa/git/raw/master/soft/ConEmuPack.191012.7z)
 

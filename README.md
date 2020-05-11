@@ -131,10 +131,11 @@
 
 #### 3.文档软件
 - **Listary** [官网](https://www.listarypro.com) [官方使用帮助](https://www.listarypro.com/docs) [备份下载](https://zhd088.coding.net/api/share/download/b5adb9d3-7227-46b3-8672-96a31a7c8e63)————强大的文件搜索、强大的快捷启动、Windows提升效率必备！
-- Office Tool [官网](https://otp.landian.vip/zh-cn/) [office2016 4in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/3faaf2c8-0d01-4fd6-b47e-adc0fb6d411e) [office2013 6in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/ee060ab1-8b32-45ef-912a-a62553b9ae0b)————极速下载、部署、卸载各版本office的管理小工具
+- Office Tool Plus [官网](https://otp.landian.vip/zh-cn/) [office2016 4in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/3faaf2c8-0d01-4fd6-b47e-adc0fb6d411e) [office2013 6in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/ee060ab1-8b32-45ef-912a-a62553b9ae0b)————极速下载、部署、卸载各版本office的管理小工具
 - sumatraPDF阅读器 [官网](https://www.sumatrapdfreader.org/free-pdf-reader.html)  [软件备份下载](https://www.lanzous.com/ia688ah)————————多格式支持 畅快 小巧
 - foxipdf [官网](https://www.foxitsoftware.cn/) [下载链接](https://www.repaik.com/forum.php?mod=forumdisplay&fid=68&filter=typeid&typeid=169)
-- Notepad++  [官网](https://notepad-plus-plus.org/)  [软件备份下载](https://www.lanzous.com/iafonxa)————轻便 强大
+- Notepad++  [官网](https://notepad-plus-plus.org/)  [备份下载](https://www.lanzous.com/iafonxa)————轻便 强大
+- Everything [官网](https://www.voidtools.com/zh-cn/)  [备份下载](https://zhd088.coding.net/api/share/download/f1e19897-c641-4fa0-8f82-9f46132ca079)
 
 
 #### 4.视频软件
@@ -170,7 +171,7 @@
 
 #### 11.网络工具
 - putty [官网](https://putty.org/) [备份下载](https://www.lanzous.com/ia6e8ra)
-- secureCRT [官网](https://www.vandyke.com/products/securecrt/)  [备份下载](https://www.lanzous.com/ia68c7i)
+- secureCRT [官网](https://www.vandyke.com/products/securecrt/)  [备份下载](https://zhd088.coding.net/api/share/download/74ca43f6-b3ed-4f27-bcad-29c161ca803a)
 - softperfect network scanner [官网](https://www.softperfect.com/products/networkscanner/) [备份下载](https://zhd088.coding.net/api/share/download/0d4446a1-fabf-407b-97ed-cdd80fcdc72f)
 - WinSCP [官网](https://winscp.net/eng/downloads.php)  [备份下载](https://www.lanzous.com/iafohlc)
 - ConEmu [官网](https://conemu.github.io/) [备份下载](https://www.lanzous.com/iagqc1a) [coding-down](https://zhd088.coding.net/p/ipa/d/ipa/git/raw/master/soft/ConEmuPack.191012.7z)

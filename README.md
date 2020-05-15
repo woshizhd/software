@@ -124,7 +124,7 @@
  
   - skyZIP 谷歌上网助手 [链接](https://chrome.google.com/webstore/detail/skyzip-proxy/hbgknjagaclofapkgkeapamhmglnbphi?utm_source=chrome-app-launcher-info-dialog) [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/skyZIP%E2%84%A2-Proxy_v0.8.3.crx)
 
-  - 油猴 Tampermonkey 脚本插件 [链接](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-app-launcher-info-dialog)  [科普](https://juejin.im/post/5a538aa9518825732e2f2849)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Tampermonkey_v4.5.crx) [Backup](https://www.lanzous.com/ialv4pg)
+  - 油猴 Tampermonkey 脚本插件 [链接](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-app-launcher-info-dialog)  [科普](https://juejin.im/post/5a538aa9518825732e2f2849)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Tampermonkey_v4.5.crx) [Backup](https://ww.lanzous.com/icngg5c)
 
   - Dream-Afar标签美化   [科普](https://sspai.com/post/41439) [链接](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn?utm_source=chrome-app-launcher-info-dialog)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Dream-Afar-New-Tab_v0.3.12.crx)
 - FireFox [官网下载](https://www.mozilla.org/zh-CN/firefox/organizations/all/)    [RunningCheese Firefox](https://www.runningcheese.com/v10)

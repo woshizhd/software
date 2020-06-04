@@ -95,7 +95,6 @@
  > [WEPE参考资料](http://www.wepe.com.cn/ubook/)
 
 - 系统激活
-   - 暴风激活  [官网](http://www.baofengjihuo.com/)  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/%E6%9A%B4%E9%A3%8E%E6%BF%80%E6%B4%BBV17.0.zip)
    - HEU_KMS_Activator [官网](https://github.com/zbezj/HEU_KMS_Activator) 
    - KMS [v0v.bid](https://v0v.bid/)  [备份下载](https://www.lanzous.com/ia65x2b)  [kms.cangshui.net](https://kms.cangshui.net/)  [备份下载2](https://www.lanzous.com/ia65x1a)
  

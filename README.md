@@ -138,8 +138,9 @@
 
 
 #### 4.视频软件
-- 观看软件：popcorn time  [软件官网](https://www.popcorn-time.to/)
-- 播放器：potplayer [软件官网](http://potplayer.daum.net/?lang=zh_CN)   [软件备份下载](https://www.lanzous.com/ia68buf)
+- popcorn time  [软件官网](https://www.popcorn-time.to/)
+- potplayer [软件官网](http://potplayer.daum.net/?lang=zh_CN)   [软件备份下载](https://www.lanzous.com/ia68buf)
+- Bandicam [官网](https://www.bandicam.cn/) [备份下载](https://zhd088.coding.net/api/share/download/2267d9a1-f51d-4483-b9f7-67298b2300f7)————小巧易用的录屏软件
 
 #### 5.通讯软件
 - QQlite绿色版 [软件备份下载](https://www.lanzous.com/ia699xc)————简单 畅快
@@ -147,7 +148,7 @@
 - 向日葵 [官网](http://sunlogin.oray.com/personal/download/)  [备份下载](https://www.lanzous.com/ia68byj)
 
 #### 6.解压软件
-- bandzip [软件官网](http://bandisoft.com/)  [软件备份下载](https://www.lanzous.com/ia687cd) [coding-down](https://zhd088.coding.net/api/share/download/b3088b6b-f2df-477c-8036-640d48ffd817)————全面 好用
+- bandzip [软件官网](http://bandisoft.com/)  [软件备份下载](https://www.lanzous.com/ia687cd) ————全面 好用
 - 7-zip  [官网](https://www.7-zip.org/) [备份下载](https://zhd088.coding.net/api/share/download/7ae174fb-7fa2-4fee-b4fe-d8ebb96d5037)————小巧、强大
 
 #### 7.酸酸乳
@@ -173,7 +174,7 @@
 - secureCRT [官网](https://www.vandyke.com/products/securecrt/)  [备份下载](https://zhd088.coding.net/api/share/download/74ca43f6-b3ed-4f27-bcad-29c161ca803a)
 - softperfect network scanner [官网](https://www.softperfect.com/products/networkscanner/) [备份下载](https://zhd088.coding.net/api/share/download/0d4446a1-fabf-407b-97ed-cdd80fcdc72f)
 - WinSCP [官网](https://winscp.net/eng/downloads.php)  [备份下载](https://www.lanzous.com/iafohlc)
-- ConEmu [官网](https://conemu.github.io/) [备份下载](https://www.lanzous.com/iagqc1a) [coding-down](https://zhd088.coding.net/p/ipa/d/ipa/git/raw/master/soft/ConEmuPack.191012.7z)
+- ConEmu [官网](https://conemu.github.io/) [备份下载](https://www.lanzous.com/iagqc1a) 
 
 
 

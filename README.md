@@ -40,9 +40,10 @@
 > **homebrew** [官网](https://brew.sh/) [少数派指北](https://sspai.com/post/56009) [王奥指南](https://wsgzao.github.io/post/homebrew/) [软件包demo](https://formulae.brew.sh/cask/)————macOS强大的包管理器！
 - 常用软件：brew cask install alfred android-platform-tools clashx fliqlo google-chrome iina qq squirrel sublime-txt telegram-desktop the-unarchiver vmware-fusion 
 #### 1.效率
-- alfred [官网](https://www.alfredapp.com/) [入门指南](https://juejin.im/post/5e4174406fb9a07cb96adec1)————比Spotlight更强的快速启动应用，大大提升你的工作效率！
+- alfred  [官网](https://www.alfredapp.com/) [入门指南](https://juejin.im/post/5e4174406fb9a07cb96adec1)————比Spotlight更强的快速启动应用，大大提升你的工作效率！
 - AutoSwitchInput [AppStore链接](https://apps.apple.com/cn/app/%E8%87%AA%E5%8A%A8%E5%88%87%E6%8D%A2%E8%BE%93%E5%85%A5%E6%B3%95/id1470350547)————为应用单独设置默认输入法
-- Mounty [官网](https://mounty.app/)———— Mounty for NTFS  插 Mac 本本再也不用为 U 盘格式操心啦
+- snipaste  [官网](https://www.snipaste.com/)————自带的工具截图后不能复制，大大地限制了效率……
+- Mounty  [官网](https://mounty.app/)———— Mounty for NTFS  插 Mac 本本再也不用为 U 盘格式操心啦
 - ParallelsDesktop [官网](https://www.parallels.cn/)  [13.2.0 备份下载](https://github.com/woshizhd/software/releases/download/ParallelsDesktop13.2.0%E7%A0%B4%E8%A7%A3%E7%89%88%EF%BC%8Dmac/ParallelsDesktop13.2.0.dmg)
 - vmware-fusion [官网](https://www.vmware.com/products/fusion/fusion-evaluation.html)————很多人夸ParallelsDesktop，我却喜欢VM
 
@@ -101,7 +102,7 @@
    - HWIDGen Windows 10 數位授權工具  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/HWIDGen_60.01.7z)
 
 - 硬件检测
-    - 驱动人生免安装版   [软件备份下载](https://www.lanzous.com/ia687ja)
+    - 驱动人生免安装版   [软件备份下载](https://zhd088.coding.net/api/share/download/d0cf1ed2-427f-4484-9ee2-1264eebb3eea)
     - AIDA64 [官网](https://www.aida64.com/downloads) [备份下载](https://zhd088.coding.net/api/share/download/c689afff-166b-4bfb-9c27-815beedcabe0)
     - cpuz [官网](https://www.cpuid.com/softwares/cpu-z.html) [备份下载](https://zhd088.coding.net/api/share/download/7a26cdfa-3c29-4cb4-83de-0eb4a274c6df)
     - CrystalDiskInfo [官网](https://crystalmark.info/en/download/) [备份下载](https://zhd088.coding.net/api/share/download/39dc5e5d-0d99-412e-8527-b04c22af1741)————萌萌的硬盘健康信息查看
@@ -123,7 +124,7 @@
  
   - skyZIP 谷歌上网助手 [链接](https://chrome.google.com/webstore/detail/skyzip-proxy/hbgknjagaclofapkgkeapamhmglnbphi?utm_source=chrome-app-launcher-info-dialog) [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/skyZIP%E2%84%A2-Proxy_v0.8.3.crx)
 
-  - 油猴 Tampermonkey 脚本插件 [链接](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-app-launcher-info-dialog)  [科普](https://juejin.im/post/5a538aa9518825732e2f2849)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Tampermonkey_v4.5.crx) [Backup](https://ww.lanzous.com/iRLyDdacodc)
+  - 油猴 Tampermonkey 脚本插件 [链接](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-app-launcher-info-dialog)  [科普](https://juejin.im/post/5a538aa9518825732e2f2849)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Tampermonkey_v4.5.crx) [Backup](https://wwe.lanzous.com/iKFk1eijqob)
 
   - Dream-Afar标签美化   [科普](https://sspai.com/post/41439) [链接](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn?utm_source=chrome-app-launcher-info-dialog)  [备份下载](https://github.com/woshizhd/software/blob/master/win/Chrome%20extensions/Dream-Afar-New-Tab_v0.3.12.crx)
 - FireFox [官网下载](https://www.mozilla.org/zh-CN/firefox/organizations/all/)    [RunningCheese Firefox](https://www.runningcheese.com/v10)

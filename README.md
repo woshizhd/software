@@ -97,7 +97,7 @@
 
 - 系统激活
    - HEU_KMS_Activator [官网](https://github.com/zbezj/HEU_KMS_Activator) 
-   - KMS [v0v.bid](https://v0v.bid/)  [备份下载]()  [kms.cangshui.net](https://kms.cangshui.net/)  [备份下载2]()
+   - KMS [v0v.bid](https://v0v.bid/)  [备份下载](https://zhd088.coding.net/api/share/download/5aae690c-e443-4a8e-a943-78cd0055f461)  [kms.cangshui.net](https://kms.cangshui.net/)  [备份下载2](https://zhd088.coding.net/api/share/download/01fe9af3-c94e-49eb-9934-7ce00fcf2c24)
  
    - HWIDGen Windows 10 數位授權工具  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/HWIDGen_60.01.7z)
 
@@ -114,7 +114,7 @@
   - Hash_1.0.4 [科普](https://xuanwo.io/2015/10/28/hashsum/) [软件备份下载](https://github.com/woshizhd/software/blob/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/Hash_1.0.4.exe)
 
 ### 2.浏览器
-- Google Chrome  [官网](https://www.google.cn/chrome/) [友链](https://tools.shuax.com/chrome/#/)  [基本插件版]()
+- Google Chrome  [官网](https://www.google.cn/chrome/) [友链](https://tools.shuax.com/chrome/#/)  [基本插件版](https://wwe.lanzous.com/iabax4d)
 - 插件推荐
   > [Chrome插件英雄榜](https://zhaoolee.gitbooks.io/chrome/content/)
 
@@ -132,9 +132,9 @@
 #### 3.文档软件
 - **Listary** [官网](https://www.listarypro.com) [官方使用帮助](https://www.listarypro.com/docs) [备份下载](https://zhd088.coding.net/api/share/download/b5adb9d3-7227-46b3-8672-96a31a7c8e63)————强大的文件搜索、强大的快捷启动、Windows提升效率必备！
 - Office Tool Plus [官网](https://otp.landian.vip/zh-cn/) [office2016 4in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/3faaf2c8-0d01-4fd6-b47e-adc0fb6d411e) [office2013 6in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/ee060ab1-8b32-45ef-912a-a62553b9ae0b)————极速下载、部署、卸载各版本office的管理小工具
-- sumatraPDF阅读器 [官网](https://www.sumatrapdfreader.org/free-pdf-reader.html)  [软件备份下载]()————————多格式支持 畅快 小巧
+- sumatraPDF阅读器 [官网](https://www.sumatrapdfreader.org/free-pdf-reader.html)  [软件备份下载](https://zhd088.coding.net/api/share/download/320d6f3d-1f84-4708-90d2-ea1206e74ad4)————————多格式支持 畅快 小巧
 - foxipdf [官网](https://www.foxitsoftware.cn/) [下载链接](https://www.repaik.com/forum.php?mod=forumdisplay&fid=68&filter=typeid&typeid=169)
-- Notepad++  [官网](https://notepad-plus-plus.org/)  [备份下载]()————轻便 强大
+- Notepad++  [官网](https://notepad-plus-plus.org/)  [备份下载](https://zhd088.coding.net/api/share/download/a7f8ef89-b8e2-4649-8b66-61514f7d4905)————轻便 强大
 - Everything [官网](https://www.voidtools.com/zh-cn/)  [备份下载](https://zhd088.coding.net/api/share/download/f1e19897-c641-4fa0-8f82-9f46132ca079)
 
 
@@ -144,20 +144,20 @@
 - Bandicam [官网](https://www.bandicam.cn/) [备份下载](https://zhd088.coding.net/api/share/download/2267d9a1-f51d-4483-b9f7-67298b2300f7)————小巧易用的录屏软件
 
 #### 5.通讯软件
-- QQlite绿色版 [软件备份下载]()————简单 畅快
+- QQlite绿色版 [软件备份下载](https://zhd088.coding.net/api/share/download/ffdb3dc1-107e-4992-8c25-8e83c79cddb4)————简单 畅快
 - Teamviewer [官网](https://www.teamviewer.cn/cn/)  [备份下载](https://zhd088.coding.net/api/share/download/75b4eb1a-2a77-41d0-8040-d9ac197b1e97)
 - 向日葵 [官网](http://sunlogin.oray.com/personal/download/)  [备份下载](https://zhd088.coding.net/api/share/download/48749b13-e1dd-4190-b098-c4984ad5e6be)
 
 #### 6.解压软件
-- bandzip [软件官网](http://bandisoft.com/)  [软件备份下载]() ————全面 好用
+- bandzip [软件官网](http://bandisoft.com/)  [软件备份下载](https://zhd088.coding.net/api/share/download/b3088b6b-f2df-477c-8036-640d48ffd817) ————全面 好用
 - 7-zip  [官网](https://www.7-zip.org/) [备份下载](https://zhd088.coding.net/api/share/download/7ae174fb-7fa2-4fee-b4fe-d8ebb96d5037)————小巧、强大
 
 #### 7.酸酸乳
-- ssr-shadowsocksR——[官网](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) [科普](https://lolico.moe/tutorial/shadowsocksr.html/comment-page-3)  [备份下载]()
+- ssr-shadowsocksR——[官网](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) [科普](https://lolico.moe/tutorial/shadowsocksr.html/comment-page-3)  [备份下载](https://zhd088.coding.net/api/share/download/ef85b124-670f-4400-afc9-2c9ea3cdacb0)
 - Clash   [官网](https://github.com/Dreamacro/clash/releases) [科普](https://github.com/Hackl0us/SS-Rule-Snippet/wiki/clash(X)) [教程](http://www.xuxiaobo.com/?p=5155)  [备份教程](https://github.com/meishixiu/note/blob/master/Clash/Clash%E5%9C%A8Windows%E4%B8%8A%E7%9A%84%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E4%B8%8E%E4%BD%BF%E7%94%A8.md)
 
 #### 8.下载
-- IDM  [备份下载]()
+- IDM  [备份下载](https://wwe.lanzous.com/iafo5cb)
 - Pandownload  [官网](http://pandownload.com/) 
 - 迅雷 [备份下载](https://github.com/woshizhd/software/raw/master/win/%E8%BF%85%E9%9B%B7%E6%9E%81%E9%80%9F%E7%89%88%20v1.0.35.366.rar)————哎，作死的迅雷，暂时能用的版本……
 
@@ -171,11 +171,11 @@
 - Roadkil's Disk Image  [官网](http://www.roadkil.net/program.php?ProgramID=12&Action=NewOSID&DownloadVersion=12&Installer=NO)  [备份下载](https://github.com/woshizhd/software/raw/master/win/diskimage.exe)
 
 #### 11.网络工具
-- putty [官网](https://putty.org/) [备份下载]()
+- putty [官网](https://putty.org/) [备份下载](https://zhd088.coding.net/api/share/download/2643b3db-5a78-4195-be8d-a639c362b5bb)
 - secureCRT [官网](https://www.vandyke.com/products/securecrt/)  [备份下载](https://zhd088.coding.net/api/share/download/74ca43f6-b3ed-4f27-bcad-29c161ca803a)
 - softperfect network scanner [官网](https://www.softperfect.com/products/networkscanner/) [备份下载](https://zhd088.coding.net/api/share/download/0d4446a1-fabf-407b-97ed-cdd80fcdc72f)
-- WinSCP [官网](https://winscp.net/eng/downloads.php)  [备份下载]()
-- ConEmu [官网](https://conemu.github.io/) [备份下载]() 
+- WinSCP [官网](https://winscp.net/eng/downloads.php)  [备份下载](https://zhd088.coding.net/api/share/download/1d71be1d-f563-49e6-a73f-6a11c97909d1)
+- ConEmu [官网](https://conemu.github.io/) [备份下载](https://zhd088.coding.net/s/1e697203-8885-4090-b10d-7e964f83d919) 
 
 
 

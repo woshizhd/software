@@ -92,7 +92,7 @@
 
 - 安装方法
     - 系统启动盘制作：[科普](https://zhuanlan.zhihu.com/p/46580355)   [rufus](https://rufus.ie/)
-    - PE盘制作：[科普](https://www.winos.me/archives/225.html)   [WEPE 官网](http://www.wepe.com.cn/download.html)   [WEPE2.0 备份下载](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/93e4730f-0373-4ef3-ba3c-6c848b50fb5e)  
+    - PE盘制作：[科普](https://www.winos.me/archives/225.html)   [WEPE 官网](http://www.wepe.com.cn/download.html)   [WEPE2.0 备份下载](https://zhd088.coding.net/api/share/download/93e4730f-0373-4ef3-ba3c-6c848b50fb5e)  
  > [WEPE参考资料](http://www.wepe.com.cn/ubook/)
 
 - 系统激活

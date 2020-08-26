@@ -134,6 +134,8 @@
 - Office Tool Plus [官网](https://otp.landian.vip/zh-cn/) [office2016 4in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/3faaf2c8-0d01-4fd6-b47e-adc0fb6d411e) [office2013 6in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/ee060ab1-8b32-45ef-912a-a62553b9ae0b)————极速下载、部署、卸载各版本office的管理小工具
 - sumatraPDF阅读器 [官网](https://www.sumatrapdfreader.org/free-pdf-reader.html)  [软件备份下载](https://zhd088.coding.net/api/share/download/320d6f3d-1f84-4708-90d2-ea1206e74ad4)————————多格式支持 畅快 小巧
 - foxipdf [官网](https://www.foxitsoftware.cn/) [下载链接](https://www.repaik.com/forum.php?mod=forumdisplay&fid=68&filter=typeid&typeid=169)
+- CAD 快速看图 [官网](https://cad.glodon.com/)
+- honeyview [官网](https://www.bandisoft.com/honeyview/)
 - Notepad++  [官网](https://notepad-plus-plus.org/)  [备份下载](https://zhd088.coding.net/api/share/download/a7f8ef89-b8e2-4649-8b66-61514f7d4905)————轻便 强大
 - Everything [官网](https://www.voidtools.com/zh-cn/)  [备份下载](https://zhd088.coding.net/api/share/download/f1e19897-c641-4fa0-8f82-9f46132ca079)
 

@@ -86,7 +86,7 @@
     - scoop install listary flux sumatrapdf officetoolplus wechat dingtalk notepadplusplus python putty
 #### 1.系统安装
 - 系统来源：
-  - 纯净系统： [itellyou](https://msdn.itellyou.cn/)
+  - 纯净系统： [windows官网](https://www.microsoft.com/zh-hk/software-download/) [itellyou](https://msdn.itellyou.cn/) [fido](https://github.com/pbatard/Fido) - 打开PowerShell窗口（管理员），拖动脚本文件到窗口打开
   - 优化系统： [专注于 win10](http://iwin10.net/)
   - 精简系统  [win10-x86](https://github.com/woshizhd/software/releases/download/win10-x86-win/win10x86.iso)  [xp-iso](https://github.com/woshizhd/software/releases/download/xp-iso-win/WinXP_Final_20170720.iso)
 

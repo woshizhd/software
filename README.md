@@ -92,28 +92,28 @@
 
 - 安装方法
     - 系统启动盘制作：[科普](https://zhuanlan.zhihu.com/p/46580355)   [rufus](https://rufus.ie/)
-    - PE盘制作：[科普](https://www.winos.me/archives/225.html)   [WEPE 官网](http://www.wepe.com.cn/download.html)   [WEPE2.0 备份下载](https://zhd088.coding.net/api/share/download/93e4730f-0373-4ef3-ba3c-6c848b50fb5e)  
+    - PE盘制作：[科普](https://www.winos.me/archives/225.html)   [WEPE 官网](http://www.wepe.com.cn/download.html)  
  > [WEPE参考资料](http://www.wepe.com.cn/ubook/)
 
 - 系统激活
    - HEU_KMS_Activator [官网](https://github.com/zbezj/HEU_KMS_Activator) 
-   - KMS [v0v.bid](https://v0v.bid/)  [备份下载](https://zhd088.coding.net/api/share/download/5aae690c-e443-4a8e-a943-78cd0055f461)  [kms.cangshui.net](https://kms.cangshui.net/)  [备份下载2](https://zhd088.coding.net/api/share/download/01fe9af3-c94e-49eb-9934-7ce00fcf2c24)
+   - KMS [v0v.bid](https://v0v.bid/)    [kms.cangshui.net](https://kms.cangshui.net/) 
  
    - HWIDGen Windows 10 數位授權工具  [备份下载](https://github.com/woshizhd/software/raw/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/HWIDGen_60.01.7z)
 
 - 硬件检测
-    - 驱动人生免安装版   [软件备份下载](https://zhd088.coding.net/api/share/download/d0cf1ed2-427f-4484-9ee2-1264eebb3eea)
-    - AIDA64 [官网](https://www.aida64.com/downloads) [备份下载](https://zhd088.coding.net/api/share/download/c689afff-166b-4bfb-9c27-815beedcabe0)
-    - cpuz [官网](https://www.cpuid.com/softwares/cpu-z.html) [备份下载](https://zhd088.coding.net/api/share/download/7a26cdfa-3c29-4cb4-83de-0eb4a274c6df)
-    - CrystalDiskInfo [官网](https://crystalmark.info/en/download/) [备份下载](https://zhd088.coding.net/api/share/download/39dc5e5d-0d99-412e-8527-b04c22af1741)————萌萌的硬盘健康信息查看
-    - CrystalDiskMark [官网](https://crystalmark.info/en/download/) [备份下载](https://zhd088.coding.net/api/share/download/1c92ab71-9fa1-4c9a-b0cf-fde3300327c6)————萌萌的硬盘跑分
+    - 驱动人生免安装版  
+    - AIDA64 [官网](https://www.aida64.com/downloads)
+    - cpuz [官网](https://www.cpuid.com/softwares/cpu-z.html) 
+    - CrystalDiskInfo [官网](https://crystalmark.info/en/download/) ————萌萌的硬盘健康信息查看
+    - CrystalDiskMark [官网](https://crystalmark.info/en/download/) ————萌萌的硬盘跑分
     -  h2testw_1.4 [下载](https://github.com/woshizhd/software/raw/master/win/h2testw_1.4.exe)————短小精悍的扩容盘检测工具
     - MyDiskTest-2.98  [下载](https://github.com/woshizhd/software/raw/master/win/MyDiskTest_v298.exe)————小巧的U盘检测工具
 
 - hash MD5检测
   - Hash_1.0.4 [科普](https://xuanwo.io/2015/10/28/hashsum/) [软件备份下载](https://github.com/woshizhd/software/blob/master/win/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/Hash_1.0.4.exe)
 
-### 2.浏览器
+#### 2.浏览器
 - Google Chrome  [官网](https://www.google.cn/chrome/) [友链](https://tools.shuax.com/chrome/#/)  [基本插件版](https://wwe.lanzous.com/iabax4d)
 - 插件推荐
   > [Chrome插件英雄榜](https://zhaoolee.gitbooks.io/chrome/content/)
@@ -130,32 +130,33 @@
 - FireFox [官网下载](https://www.mozilla.org/zh-CN/firefox/organizations/all/)    [RunningCheese Firefox](https://www.runningcheese.com/v10)
 
 #### 3.文档软件
-- **Listary** [官网](https://www.listarypro.com) [官方使用帮助](https://www.listarypro.com/docs) [备份下载](https://zhd088.coding.net/api/share/download/b5adb9d3-7227-46b3-8672-96a31a7c8e63)————强大的文件搜索、强大的快捷启动、Windows提升效率必备！
-- Office Tool Plus [官网](https://otp.landian.vip/zh-cn/) [office2016 4in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/3faaf2c8-0d01-4fd6-b47e-adc0fb6d411e) [office2013 6in1](https://dtid_8a5fe2b99aca19f5.coding.net/api/share/download/ee060ab1-8b32-45ef-912a-a62553b9ae0b)————极速下载、部署、卸载各版本office的管理小工具
-- sumatraPDF阅读器 [官网](https://www.sumatrapdfreader.org/free-pdf-reader.html)  [软件备份下载](https://zhd088.coding.net/api/share/download/320d6f3d-1f84-4708-90d2-ea1206e74ad4)————————多格式支持 畅快 小巧
+- **OneDrive** [官网]（https://onedrive.live.com/） [备份下载]（https://github.com/woshizhd/software/releases/download/OneDrive/OneDriveSetup.exe） ————Microsoft出品同步盘、稳定好用。参加 Microsoft Office365 家庭版套餐划算
+- **Listary** [官网](https://www.listarypro.com) [官方使用帮助](https://www.listarypro.com/docs) ————强大的文件搜索、强大的快捷启动、Windows提升效率必备！
+- Office Tool Plus [官网](https://otp.landian.vip/zh-cn/) [office2016 4in1](https://github.com/woshizhd/software/releases/download/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B02019.12.31/Office2016_Pro_Plus_4in1_Lite_20191231_xb21cn.7z) ————极速下载、部署、卸载各版本office的管理小工具
+- sumatraPDF阅读器 [官网](https://www.sumatrapdfreader.org/free-pdf-reader.html) ————————多格式支持 畅快 小巧
 - foxipdf [官网](https://www.foxitsoftware.cn/) [下载链接](https://www.repaik.com/forum.php?mod=forumdisplay&fid=68&filter=typeid&typeid=169)
 - CAD 快速看图 [官网](https://cad.glodon.com/)
 - honeyview [官网](https://www.bandisoft.com/honeyview/)
-- Notepad++  [官网](https://notepad-plus-plus.org/)  [备份下载](https://zhd088.coding.net/api/share/download/a7f8ef89-b8e2-4649-8b66-61514f7d4905)————轻便 强大
-- Everything [官网](https://www.voidtools.com/zh-cn/)  [备份下载](https://zhd088.coding.net/api/share/download/f1e19897-c641-4fa0-8f82-9f46132ca079)
+- Notepad++  [官网](https://notepad-plus-plus.org/) ————轻便 强大
+- Everything [官网](https://www.voidtools.com/zh-cn/) 
 
 
 #### 4.视频软件
 - popcorn time  [软件官网](https://www.popcorn-time.to/)
-- potplayer [软件官网](http://potplayer.daum.net/?lang=zh_CN)   [软件备份下载](https://zhd088.coding.net/api/share/download/e54a528b-38ba-4884-8f0e-ebaf3a20fcf0)
-- Bandicam [官网](https://www.bandicam.cn/) [备份下载](https://zhd088.coding.net/api/share/download/2267d9a1-f51d-4483-b9f7-67298b2300f7)————小巧易用的录屏软件
+- potplayer [软件官网](http://potplayer.daum.net/?lang=zh_CN)  
+- Bandicam [官网](https://www.bandicam.cn/) ————小巧易用的录屏软件
 
 #### 5.通讯软件
-- QQlite绿色版 [软件备份下载](https://zhd088.coding.net/api/share/download/ffdb3dc1-107e-4992-8c25-8e83c79cddb4)————简单 畅快
-- Teamviewer [官网](https://www.teamviewer.cn/cn/)  [备份下载](https://zhd088.coding.net/api/share/download/75b4eb1a-2a77-41d0-8040-d9ac197b1e97)
-- 向日葵 [官网](http://sunlogin.oray.com/personal/download/)  [备份下载](https://zhd088.coding.net/api/share/download/48749b13-e1dd-4190-b098-c4984ad5e6be)
+- QQlite绿色版 [备份下载](https://github.com/woshizhd/software/releases/download/qq%E7%B6%A0%E8%89%B2%E7%B2%BE%E7%B0%A1%E7%89%887.9/QQ7.9lite.7z)————简单 畅快
+- Teamviewer [官网](https://www.teamviewer.cn/cn/) 
+- 向日葵 [官网](http://sunlogin.oray.com/personal/download/)  
 
 #### 6.解压软件
-- bandzip [软件官网](http://bandisoft.com/)  [软件备份下载](https://zhd088.coding.net/api/share/download/b3088b6b-f2df-477c-8036-640d48ffd817) ————全面 好用
-- 7-zip  [官网](https://www.7-zip.org/) [备份下载](https://zhd088.coding.net/api/share/download/7ae174fb-7fa2-4fee-b4fe-d8ebb96d5037)————小巧、强大
+- bandzip [软件官网](http://bandisoft.com/)  ————全面 好用
+- 7-zip  [官网](https://www.7-zip.org/) ————小巧、强大
 
 #### 7.酸酸乳
-- ssr-shadowsocksR——[官网](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) [科普](https://lolico.moe/tutorial/shadowsocksr.html/comment-page-3)  [备份下载](https://zhd088.coding.net/api/share/download/ef85b124-670f-4400-afc9-2c9ea3cdacb0)
+- ssr-shadowsocksR——[官网](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) [科普](https://lolico.moe/tutorial/shadowsocksr.html/comment-page-3) 
 - Clash   [官网](https://github.com/Dreamacro/clash/releases) [科普](https://github.com/Hackl0us/SS-Rule-Snippet/wiki/clash(X)) [教程](http://www.xuxiaobo.com/?p=5155)  [备份教程](https://github.com/meishixiu/note/blob/master/Clash/Clash%E5%9C%A8Windows%E4%B8%8A%E7%9A%84%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E4%B8%8E%E4%BD%BF%E7%94%A8.md)
 
 #### 8.下载
@@ -164,8 +165,8 @@
 - 迅雷 [备份下载](https://github.com/woshizhd/software/raw/master/win/%E8%BF%85%E9%9B%B7%E6%9E%81%E9%80%9F%E7%89%88%20v1.0.35.366.rar)————哎，作死的迅雷，暂时能用的版本……
 
 #### 9.工具类
-- Dism ++    [官网](https://www.chuyu.me/zh-Hant/) [备份下载](https://zhd088.coding.net/api/share/download/5382ea61-9a92-4dd7-9007-7cfdd248102f) ————轻便 强大的windows 管理工具
-- geekuninstaller [官网](https://geekuninstaller.com/) [备份下载](https://zhd088.coding.net/api/share/download/2ea091c1-2266-4577-8ed8-3338e3db642f)————不仅仅是卸载，还帮助清理残留文件
+- Dism ++    [官网](https://www.chuyu.me/zh-Hant/) ————轻便 强大的windows 管理工具
+- geekuninstaller [官网](https://geekuninstaller.com/) ————不仅仅是卸载，还帮助清理残留文件
 - 卡硬工具箱 [官网](http://www.kbtool.cn/)————集百家之长，掌握主机的每个角落
 - 分流抢火车票 [官网](https://www.12306bypass.com/)————小巧 强大
 
@@ -173,12 +174,11 @@
 - Roadkil's Disk Image  [官网](http://www.roadkil.net/program.php?ProgramID=12&Action=NewOSID&DownloadVersion=12&Installer=NO)  [备份下载](https://github.com/woshizhd/software/raw/master/win/diskimage.exe)
 
 #### 11.网络工具
-- putty [官网](https://putty.org/) [备份下载](https://zhd088.coding.net/api/share/download/2643b3db-5a78-4195-be8d-a639c362b5bb)
-- secureCRT [官网](https://www.vandyke.com/products/securecrt/)  [备份下载](https://zhd088.coding.net/api/share/download/74ca43f6-b3ed-4f27-bcad-29c161ca803a)
-- softperfect network scanner [官网](https://www.softperfect.com/products/networkscanner/) [备份下载](https://zhd088.coding.net/api/share/download/0d4446a1-fabf-407b-97ed-cdd80fcdc72f)
-- WinSCP [官网](https://winscp.net/eng/downloads.php)  [备份下载](https://zhd088.coding.net/api/share/download/1d71be1d-f563-49e6-a73f-6a11c97909d1)
-- ConEmu [官网](https://conemu.github.io/) [备份下载](https://zhd088.coding.net/s/1e697203-8885-4090-b10d-7e964f83d919) 
-
+- putty [官网](https://putty.org/) 
+- secureCRT [官网](https://www.vandyke.com/products/securecrt/)  
+- softperfect network scanner [官网](https://www.softperfect.com/products/networkscanner/) 
+- WinSCP [官网](https://winscp.net/eng/downloads.php)  
+- ConEmu [官网](https://conemu.github.io/) 
 
 
 ## 五. TV盒子

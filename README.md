@@ -130,7 +130,7 @@
 - FireFox [官网下载](https://www.mozilla.org/zh-CN/firefox/organizations/all/)    [RunningCheese Firefox](https://www.runningcheese.com/v10)
 
 #### 3.文档软件
-- **OneDrive** [官网]（https://onedrive.live.com/） [备份下载]（https://github.com/woshizhd/software/releases/download/OneDrive/OneDriveSetup.exe） ————Microsoft出品同步盘、稳定好用。参加 Microsoft Office365 家庭版套餐划算
+- **OneDrive** [官网](https://onedrive.live.com/) [备份下载](https://github.com/woshizhd/software/releases/download/OneDrive/OneDriveSetup.exe） ————Microsoft出品同步盘、稳定好用。参加 Microsoft Office365 家庭版套餐划算
 - **Listary** [官网](https://www.listarypro.com) [官方使用帮助](https://www.listarypro.com/docs) ————强大的文件搜索、强大的快捷启动、Windows提升效率必备！
 - Office Tool Plus [官网](https://otp.landian.vip/zh-cn/) [office2016 4in1](https://github.com/woshizhd/software/releases/download/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B02019.12.31/Office2016_Pro_Plus_4in1_Lite_20191231_xb21cn.7z) ————极速下载、部署、卸载各版本office的管理小工具
 - sumatraPDF阅读器 [官网](https://www.sumatrapdfreader.org/free-pdf-reader.html) ————————多格式支持 畅快 小巧
